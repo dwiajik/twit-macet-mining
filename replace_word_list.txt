@@ -1,0 +1,9 @@
+dr,dari
+sp,simpang
+jl,jalan
+jln,jalan
+jlan,jalan
+lncar,lancar
+dg,dengan
+dgn,dengan
+yg,yang
