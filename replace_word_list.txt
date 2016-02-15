@@ -7,3 +7,4 @@ lncar,lancar
 dg,dengan
 dgn,dengan
 yg,yang
+dlm,dalam
