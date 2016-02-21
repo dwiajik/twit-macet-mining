@@ -40,8 +40,8 @@ def tweet_features(tweet):
 labeled_tweets = ([(line, 'traffic') for line in open('corpus/traffic_tweets_combined.txt')] + [(line, 'non_traffic') for line in open('corpus/random_tweets.txt')])
 random.shuffle(labeled_tweets)
 feature_sets = [(tweet_features(tweet), category) for (tweet, category) in labeled_tweets]
-train_set, test_set = feature_sets[20000:], feature_sets[:20000]
+train_set, test_set = feature_sets, feature_sets
 naive_bayes_classifier = nltk.NaiveBayesClassifier.train(train_set)
 svm_classifier = nltk.classify.SklearnClassifier(LinearSVC()).train(train_set)
-print('Naive Bayes Classifier accuracy', nltk.classify.accuracy(naive_bayes_classifier, test_set))
-print('SVM Classifier accuracy', nltk.classify.accuracy(svm_classifier, test_set))
+print('Naive Bayes Classifier accuracy:', str(round(nltk.classify.accuracy(naive_bayes_classifier, test_set) * 100, 2)) + '%')
+print('SVM Classifier accuracy:', str(round(nltk.classify.accuracy(svm_classifier, test_set) * 100, 2)) + '%')
