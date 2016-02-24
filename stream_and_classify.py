@@ -114,6 +114,12 @@ class TwitterStreamer(StreamListener):
 				'\t| ' + self.classifier.svm_classify(tweet) +
 				'\t| ' + self.classifier.decision_tree_classify(tweet) +
 				'\t| ' + tweet)
+			with open(os.path.dirname(__file__) + 'classified_tweets.csv', 'a') as f:
+				f.write('"' + datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S") +
+				'","' + self.classifier.naive_bayes_classify(tweet) +
+				'","' + self.classifier.svm_classify(tweet) +
+				'","' + self.classifier.decision_tree_classify(tweet) +
+				'","' + tweet + '"\n')
 
 		except BaseException as e:
 			print("Error on_data: %s" % str(e))
@@ -125,6 +131,8 @@ class TwitterStreamer(StreamListener):
 
 
 twitter_stream = Stream(auth, TwitterStreamer())
-keywords = [line.rstrip('\n') for line in open(os.path.dirname(__file__) + 'name_list.txt')]
-twitter_stream.filter(track=keywords, follow=['250022672', '187397386', '1118238337', '4675666764', '128175561', '537556372', '106780531', '62327666', '454564576', '223476605'])
-
+#keywords = [line.rstrip('\n') for line in open(os.path.dirname(__file__) + 'name_list.txt')]
+users = ['250022672', '187397386', '1118238337', '4675666764', '128175561', '537556372', '106780531', '62327666', '454564576', '223476605', '201720189']
+keywords = ['Yogyakarta', 'Jogjakarta', 'Jogja', 'Yogya', 'Adisutjipto', 'Adi Sutjipto', 'lalinjogja', 'RTMC_Jogja', 'ATCS_DIY',
+	'jogjaupdate', 'jogja24jam', 'infojogja', 'yogyakartacity', 'jogjamedia', 'tribunjogja', 'unisifmyk', 'UGM', 'UII', 'UNY', 'UMY', 'lalinyk']
+twitter_stream.filter(track=keywords, follow=users)

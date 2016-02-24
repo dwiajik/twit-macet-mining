@@ -1,0 +1,85 @@
+Naive Bayes Classifier accuracy: 98.51%
+SVM Classifier accuracy: 98.79%
+Decision Tree Classifier accuracy: 98.76%
+
+Tweets:
+| 2016-02-22 11:16:18	| non_traffic	| non_traffic	| non_traffic	| #spesial #jogja #recomended » @NonaAlona_ | cek bio serius DM wajib dp https://t.co/p8FCBq5Pdi
+| 2016-02-22 11:16:18	| non_traffic	| non_traffic	| non_traffic	| Selamat Senin pagi, sayang.  #coffee #coffeeshop #jogja https://t.co/GN9IXBBKRa
+| 2016-02-22 11:16:23	| non_traffic	| non_traffic	| non_traffic	| Terbang liburan sehabis lebaran jogja surabaya medan mulai dari 219rb https://t.co/7Ynu3PWiwt
+| 2016-02-22 11:16:33	| non_traffic	| non_traffic	| non_traffic	| Akibat Kurang kerjaan di hari CGM (*gak sekeren di Kal-Bar) #drawing #capgomeh #monday @ Yogyakarta https://t.co/3oXEFviaml
+| 2016-02-22 11:16:34	| non_traffic	| non_traffic	| non_traffic	| Mudah terserang flu saat musim hujan? Atasi dengan MUNCORD TIENS, satu-satunya antibiotik alami tanpa efek samping. ##Jogjakarta
+| 2016-02-22 11:16:35	| non_traffic	| non_traffic	| non_traffic	| RT @zulfa_hilda: hari ini ada #ELLINODIADIADAADAAJAGLOBALTV @ELLino_Edie @tasfm_kediri @Pro2_Ternate @Tamalafm @UmsuMRadioMedan @unisifmyk …
+| 2016-02-22 11:16:42	| non_traffic	| non_traffic	| non_traffic	| #Yogyakarta Seminar Nasional Technopreneurship. 28 Februari 2016. More info &gt;&gt;&gt; https://t.co/zMkQrrGNUN… https://t.co/b5wQR0vjuU
+| 2016-02-22 11:16:46	| non_traffic	| non_traffic	| non_traffic	| Sahabat, ayo ikutan lomba foto #BebasDilemaRambut di Booth @Dove_IDN di #KampusKompasTV UGM besok. Menangkan total hadiah Rp 2 Juta! #Ad
+| 2016-02-22 11:16:51	| non_traffic	| non_traffic	| non_traffic	| Uii dok kat kg pering ni masa bejalan lambat jaa aku rasa i liooookeeee 😎wa gerak lu paparojer
+| 2016-02-22 11:16:51	| non_traffic	| non_traffic	| non_traffic	| kulonprogo kembali dikepung aparat pagi ini  #savetemon @JogjaUpdate https://t.co/3SgWt8Ve2p
+| 2016-02-22 11:16:55	| non_traffic	| non_traffic	| non_traffic	| RT @sheilaon7: Jogjakarta, 20 Februari 2016 @secre_secre #romantictunes2 #sheilaon7 #sheilaonstage… https://t.co/nG1As7TG8Q
+| 2016-02-22 11:16:57	| non_traffic	| non_traffic	| non_traffic	| JOGJA 👇 cc @Indo_ELFs  https://t.co/JTwCvjmGyp
+| 2016-02-22 11:17:05	| non_traffic	| non_traffic	| non_traffic	| RT @SheilaGankJogja: Selamat Paggi 🌞😊 . #SheilaOn7 #SheilaGank  #SheilaGankJogja  #RomanticTunes2  #songlist @ UNY https://t.co/dvQOsTwTuX
+| 2016-02-22 11:17:07	| non_traffic	| non_traffic	| non_traffic	| #lowkerjogja #jogjabiz #jogjanow #jogjamedia @amikom  @AmikomYk @JogjaMedia @jogjatoday @jogjaupdate @jogjaiklan https://t.co/75da47bViL
+| 2016-02-22 11:17:10	| non_traffic	| non_traffic	| non_traffic	| RT @tribunjogja: Pameran Seni Rupa "Terimakasih Tanpa Batas" di BBY Tampilkan Karya Wardi Bajang Semasa Hidup https://t.co/RkEKhv2o2v
+| 2016-02-22 11:17:15	| non_traffic	| non_traffic	| non_traffic	| RT @sheilaon7: Jogjakarta, 20 Februari 2016 @secre_secre #romantictunes2 #sheilaon7 #sheilaonstage… https://t.co/w7ZYWC6Amy
+| 2016-02-22 11:17:20	| non_traffic	| non_traffic	| non_traffic	| Kompleks Ratu Boko (Sleman-D.I. Yogyakarta)  Keputren merupakan salah satu bagian dari Kompleks… https://t.co/yjyDQ4ouqg
+| 2016-02-22 11:17:22	| non_traffic	| non_traffic	| non_traffic	| Jual Herbal Kolesterol Termurah cod di Jogja PIN:54E60E2B - 083842437980 #Grosir #Kolesterol #Jogja
+| 2016-02-22 11:17:23	| non_traffic	| non_traffic	| non_traffic	| Selamat Siang ka'  @AiesDara  Untuk Toserba YOGYA , PT Akur Pratama
+| 2016-02-22 11:17:25	| non_traffic	| non_traffic	| non_traffic	| Uii nanlalaglag si Bossing!! Hahahaha #VoteMaineFPP #KCA
+| 2016-02-22 11:17:25	| non_traffic	| non_traffic	| non_traffic	| RT @NET_CJ: Inovasi Kerajinan Batik Kayu. Video Kiriman Agus Taufik &amp; Nur Anisa (Yogyakarta) #NET10 https://t.co/Z7MskIpCBX https://t.co/zt…
+| 2016-02-22 11:17:28	| non_traffic	| non_traffic	| non_traffic	| RT @sheilaon7: Jogjakarta, 20 Februari 2016 @secre_secre #romantictunes2 #sheilaon7 #sheilaonstage… https://t.co/nG1As7TG8Q
+| 2016-02-22 11:17:31	| non_traffic	| non_traffic	| non_traffic	| #JOGJA #22Feb_10:50 #Butuh_Darah: B 5ktg RAESAKHA/APRILYA. RS Sardjito. SMS/WA 082325686826 @bfojogja
+| 2016-02-22 11:17:31	| non_traffic	| traffic	| non_traffic	| Jalan jalan keliling kota jogja
+| 2016-02-22 11:17:34	| non_traffic	| non_traffic	| non_traffic	| @LukmanHaklm bro blek dr jogja.. Laen mcm dah.. I can feel the force..hmmmm ..Ble nak karok? 👽
+| 2016-02-22 11:17:36	| non_traffic	| non_traffic	| non_traffic	| njur dibalang gendul karo admine jogja strimer :)))
+| 2016-02-22 11:17:37	| non_traffic	| non_traffic	| non_traffic	| Cream pemutih ini bisa kamu dapetin di store Aura Glow Green Bali Residence B2 Yogyakarta atau online 081390426955 https://t.co/RxDeVlt57D
+| 2016-02-22 11:17:53	| non_traffic	| non_traffic	| non_traffic	| BUS TRANS JOGJA : 25 Bus Baru Belum Masih Tertahan, Tunggu Proses Balik Nama https://t.co/taGI2rWF94
+| 2016-02-22 11:17:56	| non_traffic	| non_traffic	| non_traffic	| BUS TRANS JOGJA : 25 Bus Baru Belum Masih Tertahan, Tunggu Proses Balik Nama https://t.co/H9I1s3b3fC
+| 2016-02-22 11:18:02	| non_traffic	| non_traffic	| non_traffic	| RT @sheilaon7: Jogjakarta, 20 Februari 2016 @secre_secre #romantictunes2 #sheilaon7 #sheilaonstage… https://t.co/nG1As7TG8Q
+| 2016-02-22 11:18:08	| non_traffic	| non_traffic	| non_traffic	| ➡ https://t.co/LWQBCBOjGO  ➡➡https://t.co/ESpF1Fais0  https://t.co/PaWoFml3tZ UiI
+| 2016-02-22 11:18:09	| non_traffic	| non_traffic	| non_traffic	| RT @KompasTV: Sahabat, ayo ikutan lomba foto #BebasDilemaRambut di Booth @Dove_IDN di #KampusKompasTV UGM besok. Menangkan total hadiah Rp …
+| 2016-02-22 11:18:14	| non_traffic	| non_traffic	| non_traffic	| RT @LBHYogya: kulonprogo kembali dikepung aparat pagi ini  #savetemon @JogjaUpdate https://t.co/3SgWt8Ve2p
+| 2016-02-22 11:18:28	| non_traffic	| non_traffic	| non_traffic	| #kostputri #jogja luas,KM dlm,2bed,full furnished,dapur AC/fan,wifi,bs ber-2,disc.Hub @Jatayu_Kost via WA https://t.co/RyV3xMce8z -
+| 2016-02-22 11:18:29	| non_traffic	| non_traffic	| non_traffic	| Lima makul tanpa jeda 😭 (at Fakultas Ilmu Keolahragaan (FIK) UNY, Yogyakarta) — https://t.co/Xx381x7zsQ
+| 2016-02-22 11:18:32	| non_traffic	| non_traffic	| non_traffic	| Uluh - uluh teh 😚😚😚😚 (with Noval, hallodiba, and Tiyas at Jogja Expo Center ( JEC )) [pic] — https://t.co/IyGCknA5nL
+| 2016-02-22 11:18:38	| non_traffic	| non_traffic	| non_traffic	| RT @bemfbsuny: Selamat dan sukses Pentas Akhir Kepengurusan SANGKALA FBS UNY @sangkalafbsuny   #teater #theatre… https://t.co/yCEfTkMiIG
+| 2016-02-22 11:18:42	| non_traffic	| non_traffic	| non_traffic	| @LBHYogya @JogjaUpdate kui Petani dudu Penjahat woy... Istimewa Istimewa
+| 2016-02-22 11:18:42	| non_traffic	| non_traffic	| non_traffic	| RT @BPN_CGK: KULINER JOGJA Jawa Tempo Dulu Di Lawas Cafe 613 - Harian Jogja https://t.co/rkuzugtQan
+| 2016-02-22 11:18:46	| non_traffic	| non_traffic	| non_traffic	| Car Free Day Madiun untuk peragaan busana. - Harian Jogja https://t.co/1NgCXwykQm #Madiun
+| 2016-02-22 11:18:47	| non_traffic	| non_traffic	| non_traffic	| RT @LBHYogya: kulonprogo kembali dikepung aparat pagi ini  #savetemon @JogjaUpdate https://t.co/3SgWt8Ve2p
+| 2016-02-22 11:18:47	| non_traffic	| non_traffic	| non_traffic	| FOTO PENCURIAN MOTOR Inilah Alap-Alap Motor Madiun… - Harian Jogja https://t.co/0kSwRNYn1f #Madiun
+| 2016-02-22 11:18:48	| non_traffic	| non_traffic	| non_traffic	| Tak bosan-bosannya datang ke sini (with kesendirian at Perpustakaan Pusat Universitas Negeri Yogyakarta) — https://t.co/xGzyp681Mq
+| 2016-02-22 11:18:52	| non_traffic	| non_traffic	| non_traffic	| RT @infosenijogja: Semangat mengabdi pada kebudayaan rela mengayuh sepeda ditengah teriknya Jogja | photo by @Feiionica_Sonny https://t.co/…
+| 2016-02-22 11:19:03	| non_traffic	| non_traffic	| non_traffic	| Ngampussss saaaayyyyyy ✈ @ Jogja Flight Balikpapan https://t.co/2J8q0PP0KK
+| 2016-02-22 11:19:09	| non_traffic	| non_traffic	| non_traffic	| RT @ticket_hotel: #OpenBO  ~ Cek Bio 👉 @DeekShy  #RealBO √ ★✩★✩★ https://t.co/rwGfnWnTTS
+| 2016-02-22 11:19:29	| non_traffic	| non_traffic	| non_traffic	| Si yu tumoro! 👍 RT @muhammadBP_14: Ditunggu di UGM bang @wiranagara 😂😂😂
+| 2016-02-22 11:19:30	| non_traffic	| traffic	| traffic	| RT @MIsezKediri: NOMIL  NAPOLI vs ACMILAN  Selasa, 23 Feb 2016|02.30 wib|At angkringan Jogja (paron)|HTM 2K cp. @EdwinHaerhodin cc. @Rosson…
+| 2016-02-22 11:19:57	| non_traffic	| non_traffic	| non_traffic	| Alhamdulillah (with Mom👅 at Lukas Ward Panti Rapih Hospital Yogyakarta) — https://t.co/oWvzbEnJ4l
+| 2016-02-22 11:19:58	| non_traffic	| non_traffic	| non_traffic	| @info_yogyagriya Kalau belanja ke Jogja, kresek bayar juga? Atau harus bawa karung sendiri gkgkgk :)
+| 2016-02-22 11:20:00	| non_traffic	| non_traffic	| non_traffic	| supervisor hearts 👀 @ Lapangan Tenes UGM https://t.co/Hb9zlg3VJJ
+| 2016-02-22 11:20:05	| non_traffic	| non_traffic	| non_traffic	| RT @yerezqybagus: Happy birthday @fitkhi_windu anak baru hitz jogja. Semoga otaknya makin kruwel, trus bisa jadi fisikawan sejatiii. May Al…
+| 2016-02-22 11:20:06	| non_traffic	| non_traffic	| non_traffic	| Program Peduli Pendidikan di PA Al Ghifari Sleman. Donasi Tim Teratai &amp; SMA N 3 Yogyakarta bekerjasama dengan PKPU. https://t.co/dALaRcbZDj
+| 2016-02-22 11:20:11	| non_traffic	| non_traffic	| non_traffic	| #prihatin Yogyakarta Masih Godok Aturan Kantong Plastik Berbayar - Metro TV News https://t.co/HRwtHREAVe #Yogyakarta #IndonesiaTerkini
+| 2016-02-22 11:20:19	| non_traffic	| non_traffic	| non_traffic	| PERSIAPKAN DIRI ANDA !!! UNTUK EVENT TERHEBOH, TERBESAR DAN TER-EKSKLUSIF DI YOGYAKARTA !!! … - Couple Talk — https://t.co/I6V6fLnjXz
+| 2016-02-22 11:20:19	| non_traffic	| non_traffic	| non_traffic	| @ZaloraID info #music #band #jogja EVER GREEN menerima undangan mengisi acara 0811266773 wa
+| 2016-02-22 11:20:22	| non_traffic	| non_traffic	| non_traffic	| RT @JogjaUpdate: #jogja @WismisJogja: 27/02/16 19.00 Wisata Misteri Jembatan Gantung Selopamioro Imogiri | @WismisJogja https://t.co/cXeipQ…
+| 2016-02-22 11:20:22	| non_traffic	| non_traffic	| non_traffic	| RT @tribunjogja: REALTIME NEWS : Budaya Jawa dan Tionghoa Melebur dalam Kirab Cap Go Meh di Magelang https://t.co/vz4VQRC2Au
+| 2016-02-22 11:20:22	| non_traffic	| non_traffic	| non_traffic	| RT @tribunjogja: Pameran Seni Rupa "Terimakasih Tanpa Batas" di BBY Tampilkan Karya Wardi Bajang Semasa Hidup https://t.co/RkEKhv2o2v
+| 2016-02-22 11:20:24	| non_traffic	| non_traffic	| non_traffic	| RT @LBHYogya: kulonprogo kembali dikepung aparat pagi ini  #savetemon @JogjaUpdate https://t.co/3SgWt8Ve2p
+| 2016-02-22 11:20:31	| traffic	| traffic	| traffic	| RT @CelotehSMG: #Lalin 10.34 Wib Arus lalu lintas Bawen arah menuju bawen dan arah menuju jogja terpantau lancar https://t.co/8wCXJpBD7s
+| 2016-02-22 11:20:42	| non_traffic	| non_traffic	| non_traffic	| Belajar bahasa Inggris dgn cara yg lebih asik? Cukup daftar sbg member Jogja English &amp; lgs gbung di English Club.:) https://t.co/E3RX0CeYZ8
+| 2016-02-22 11:20:44	| non_traffic	| non_traffic	| non_traffic	| Wisata Alam Curug Sidoharjo https://t.co/k8L67moPsU #JogjaCityTour | Jogja Traveling Guide
+| 2016-02-22 11:20:49	| non_traffic	| non_traffic	| non_traffic	| @dwinucleo @nickoalbert @RizqAdamP @beninggg @bayuagithaknil @ademaolana @yudhaa28 @ISSA1897 pas aku ke jogja gak di ajak kesitu (2)
+| 2016-02-22 11:20:53	| non_traffic	| non_traffic	| non_traffic	| Jangan lupa beli buku #KetikaAkuMemelukCinta ya? mksh. https://t.co/4K5XhurcPn
+| 2016-02-22 11:20:54	| non_traffic	| non_traffic	| non_traffic	| #jogja #indonesia Warna-warni Karnaval Cap Go Meh 2016 di Glodok: Minggu (21/2) kemarin ad... https://t.co/2EQtMp4c4H #yogyakarta #travel
+| 2016-02-22 11:20:54	| non_traffic	| non_traffic	| non_traffic	| #angkringanmargomulyo #malioboro #yogyakarta #latepost https://t.co/WQbDhVxxC6
+| 2016-02-22 11:20:55	| non_traffic	| non_traffic	| non_traffic	| #Yogyakarta Seminar Nasional Technopreneurship. 28 Februari 2016. More info &gt;&gt;&gt; https://t.co/f60z9QIJbp https://t.co/gbzlsJnOmD
+| 2016-02-22 11:20:55	| non_traffic	| non_traffic	| non_traffic	| #prihatin Yogyakarta Masih Godok Aturan Kantong Plastik Berbayar - Metro TV News https://t.co/VsRM758DYe #Yogyakarta #IndonesiaTerkini
+| 2016-02-22 11:21:03	| non_traffic	| non_traffic	| non_traffic	| There are many who say that Borobudur is located in Yogyakarta when in fact it is in Magelang regency, Central Java
+| 2016-02-22 11:21:05	| non_traffic	| non_traffic	| non_traffic	| @Cacuki bg catur mau nanya kalo mau buka stand buat acara di santika gimana ya bg kmrin uda hbungin yg di jogja tpi blum direspon
+| 2016-02-22 11:21:08	| non_traffic	| non_traffic	| non_traffic	| Hello from our teachers..... *Halo dari guru-guru kami.. :-) #indonesia #yogyakarta #jakarta… https://t.co/rzlCdhEF6K
+| 2016-02-22 11:21:11	| non_traffic	| non_traffic	| non_traffic	| RT @sheilaon7: Jogjakarta, 20 Februari 2016 @secre_secre #romantictunes2 #sheilaon7 #sheilaonstage… https://t.co/nG1As7TG8Q
+| 2016-02-22 11:21:14	| non_traffic	| non_traffic	| non_traffic	| Kapolda: Eks Gafatar Berpotensi Direkrut Teroris Para eks pengikut Gafatar berpo  https://t.co/if2GUSWjBA
+| 2016-02-22 11:21:14	| non_traffic	| non_traffic	| non_traffic	| Ka kk yg lg diiriin itu ya? Screenshootny gmn si?aku bl… — Kaya gini.  Jadi ceritanya pas nobar di Jogja itu aku d… https://t.co/NlGPjJSdOD
+| 2016-02-22 11:21:16	| non_traffic	| non_traffic	| non_traffic	| @nophiSetya Liburan Asik di Jogja dg Rental Mobil Jogja Honda Mobilio Free Kamera Bpro5. https://t.co/rCNTheEtvK https://t.co/UINld03gSN
+| 2016-02-22 11:21:17	| non_traffic	| traffic	| traffic	| RT @MIsezKediri: NOMIL  NAPOLI vs ACMILAN  Selasa, 23 Feb 2016|02.30 wib|At angkringan Jogja (paron)|HTM 2K cp. @EdwinHaerhodin
+| 2016-02-22 11:21:18	| non_traffic	| non_traffic	| non_traffic	| RT @KompasTV: BESOK! #KampusKompasTV UGM 23-24 Feb. Pastikan kamu sudah mendaftar di https://t.co/R7GeuU9Y2a https://t.co/ACGDwqgFfo
+| 2016-02-22 11:21:23	| non_traffic	| non_traffic	| non_traffic	| 23-24 Feb Mimi House LIBUR 😍 Dlm rangka ultah Salon ke 1 kami para crew akan liburan ke jogja… https://t.co/uAt5r9T5aY
+| 2016-02-22 11:21:23	| non_traffic	| non_traffic	| non_traffic	| RT @GreenpeaceID: Aktivis Greenpeace di Yogyakarta tak ketinggalan ikut aksi peduli sampah nasional untuk Indonesia #BebasSampah2020 https:…

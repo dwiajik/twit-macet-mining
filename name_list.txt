@@ -5,12 +5,6 @@ Adisoro
 Affandi
 Ageng Nis
 Ageng Pamanahan
-Alun-Alun Kidul
-Alun-Alun Lor
-altar
-Alun-Alun Utara
-alkid
-Alun-Alun Selatan
 Asem Gede
 Atmo Sukarto
 Babaran
@@ -34,7 +28,6 @@ Bugisan
 Bumijo
 Candra Kirana
 Cantel
-Cempaka
 Cipto Wiloho
 Cokrodiningratan
 Cokrodipuran
@@ -120,10 +113,7 @@ Ketandan
 Kleben
 Kleringan
 Klitren
-Kotabaru
-Kranggan
 Krasak
-Kraton
 Kresno
 Kricak
 Kricak
@@ -226,7 +216,6 @@ Pembayun
 Pemukti
 Pengok Kidul
 Penjawi
-Perintis Kemerdekaan
 Permadi
 Perum Gambiran
 Perwakilan
@@ -320,16 +309,6 @@ Suryoputran
 Suryotomo
 Sutomo
 Sutoyo
-Tahunan
-Tamansari
-Taman Sari
-Taman Siswa
-Tegal Gendu
-Tegal Kemuning
-Tegal Mulyo
-Tegal Panggung
-Tegal Rejo
-Tegal Turi
 Tegalrejo
 Telomoyo
 Tentara Pelajar
@@ -343,12 +322,9 @@ Tirtodipuran
 Tohpati
 Tompe
 Tompeyan
-Tri Margo
-Tri Tunggal
 Tribatra
 Tridarma
 Trimo
-Tubun
 Tukangan
 Tunjung
 Umbulharjo
@@ -377,11 +353,6 @@ Jokteng
 Pojok beteng
 Adisutjipto
 Adi Sutjipto
-Km 0
-km nol
-nol kilometer
-0 km
-0 kilometer
 lalinjogja
 RTMC_Jogja
 ATCS_DIY
