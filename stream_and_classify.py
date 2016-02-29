@@ -58,7 +58,7 @@ class Classifier:
 		return features
 
 	def __init__(self):
-		labeled_tweets = ([(line, 'traffic') for line in open('corpus/traffic_tweets_combined.txt')] + [(line, 'non_traffic') for line in open('corpus/random_tweets.txt')])
+		labeled_tweets = ([(line, 'traffic') for line in open('tweets_corpus/traffic_tweets_combined.txt')] + [(line, 'non_traffic') for line in open('tweets_corpus/random_tweets.txt')])
 		random.shuffle(labeled_tweets)
 		feature_sets = [(self.tweet_features(tweet), category) for (tweet, category) in labeled_tweets]
 		train_set, test_set = feature_sets[:15000], feature_sets[15000:]
