@@ -62,19 +62,31 @@ class Classifier:
 		random.shuffle(labeled_tweets)
 		feature_sets = [(self.tweet_features(tweet), category) for (tweet, category) in labeled_tweets]
 		train_set, test_set = feature_sets[:15000], feature_sets[15000:]
+
+		start_time = time.time()
 		self.naive_bayes_classifier = nltk.NaiveBayesClassifier.train(train_set)
+		naive_bayes_time = round(time.time() - start_time, 2)
+		print('Naive Bayes Classifier accuracy:', str(round(nltk.classify.accuracy(self.naive_bayes_classifier, test_set) * 100, 2)) + '%, training time:', naive_bayes_time, 'seconds')
+
+		start_time = time.time()
 		self.svm_classifier = nltk.classify.SklearnClassifier(LinearSVC()).train(train_set)
+		svm_time = round(time.time() - start_time, 2)
+		print('SVM Classifier accuracy:', str(round(nltk.classify.accuracy(self.svm_classifier, test_set) * 100, 2)) + '%, training time:', svm_time, 'seconds')
+
+		start_time = time.time()
 		self.decision_tree_classifier = nltk.DecisionTreeClassifier.train(train_set)
+		decision_tree_time = round(time.time() - start_time, 2)
+		print('Decision Tree Classifier accuracy:', str(round(nltk.classify.accuracy(self.decision_tree_classifier, test_set) * 100, 2)) + '%, training time:', decision_tree_time, 'seconds')
+
 		#self.maxent_classifier = nltk.MaxentClassifier.train(train_set)
 		#self.conditional_exponential_classifier = nltk.ConditionalExponentialClassifier.train(train_set)
 		#self.weka_classifier = nltk.WekaClassifier.train(train_set)
-		print('Naive Bayes Classifier accuracy:', str(round(nltk.classify.accuracy(self.naive_bayes_classifier, test_set) * 100, 2)) + '%')
-		print('SVM Classifier accuracy:', str(round(nltk.classify.accuracy(self.svm_classifier, test_set) * 100, 2)) + '%')
-		print('Decision Tree Classifier accuracy:', str(round(nltk.classify.accuracy(self.decision_tree_classifier, test_set) * 100, 2)) + '%')
+
 		with open(os.path.dirname(__file__) + 'classified_tweets.txt', 'a') as f:
 			f.write('Naive Bayes Classifier accuracy: ' + str(round(nltk.classify.accuracy(self.naive_bayes_classifier, test_set) * 100, 2)) + '%\n')
 			f.write('SVM Classifier accuracy: ' + str(round(nltk.classify.accuracy(self.svm_classifier, test_set) * 100, 2)) + '%\n')
 			f.write('Decision Tree Classifier accuracy: ' + str(round(nltk.classify.accuracy(self.decision_tree_classifier, test_set) * 100, 2)) + '%\n')
+
 		#print('Maxent Classifier accuracy:', str(round(nltk.classify.accuracy(self.maxent_classifier, test_set) * 100, 2)) + '%')
 		#print('Conditional Exponential Classifier accuracy:', str(round(nltk.classify.accuracy(self.conditional_exponential_classifier, test_set) * 100, 2)) + '%')
 		#print('Weka Classifier accuracy:', str(round(nltk.classify.accuracy(self.weka_classifier, test_set) * 100, 2)) + '%')
