@@ -58,10 +58,14 @@ class Classifier:
 		return features
 
 	def __init__(self):
-		labeled_tweets = ([(line, 'traffic') for line in open('tweets_corpus/traffic_tweets_combined.txt')] + [(line, 'non_traffic') for line in open('tweets_corpus/random_tweets.txt')])
+		labeled_tweets = (
+			[(line, 'traffic') for line in open('tweets_corpus/traffic_tweets_combined.txt')] + 
+			[(line, 'non_traffic') for line in open('tweets_corpus/random_tweets.txt')] + 
+			[(line, 'non_traffic') for line in open('tweets_corpus/non_traffic_tweets.txt')]
+			)
 		random.shuffle(labeled_tweets)
 		feature_sets = [(self.tweet_features(tweet), category) for (tweet, category) in labeled_tweets]
-		train_set, test_set = feature_sets[:15000], feature_sets[15000:]
+		train_set, test_set = feature_sets[:50000], feature_sets[50000:]
 
 		start_time = time.time()
 		self.naive_bayes_classifier = nltk.NaiveBayesClassifier.train(train_set)
@@ -115,11 +119,12 @@ class TwitterStreamer(StreamListener):
 			#if self.classifier.naive_bayes_classify(tweet) is 'traffic' or \
 			#	self.classifier.svm_classify(tweet) is 'traffic' or \
 			#	self.classifier.decision_tree_classify(tweet) is 'traffic':
-			print('| ' + datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
-				'\t| ' + self.classifier.naive_bayes_classify(tweet), 
-				'\t| ' + self.classifier.svm_classify(tweet), 
-				'\t| ' + self.classifier.decision_tree_classify(tweet),
-				'\t| ' + tweet)
+			if sys.argv[1] == "dev":
+				print('| ' + datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
+					'\t| ' + self.classifier.naive_bayes_classify(tweet), 
+					'\t| ' + self.classifier.svm_classify(tweet), 
+					'\t| ' + self.classifier.decision_tree_classify(tweet),
+					'\t| ' + tweet)
 			with open(os.path.dirname(__file__) + 'classified_tweets.txt', 'a') as f:
 				f.write('\n| ' + datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S") +
 				'\t| ' + self.classifier.naive_bayes_classify(tweet) +

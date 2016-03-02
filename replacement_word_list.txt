@@ -11,3 +11,5 @@ dgn,dengan
 tdk,tidak
 yg,yang
 tnpa,tanpa
+rame,ramai
+ramlan,ramai lancar
