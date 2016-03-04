@@ -36,3 +36,4 @@ dalam
 pukul
 tetap
 bandara
+macet

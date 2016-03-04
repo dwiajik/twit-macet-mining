@@ -65,7 +65,7 @@ class Classifier:
 			)
 		random.shuffle(labeled_tweets)
 		feature_sets = [(self.tweet_features(tweet), category) for (tweet, category) in labeled_tweets]
-		train_set, test_set = feature_sets[:50000], feature_sets[50000:]
+		train_set, test_set = feature_sets[:80000], feature_sets[80000:]
 
 		start_time = time.time()
 		self.naive_bayes_classifier = nltk.NaiveBayesClassifier.train(train_set)
