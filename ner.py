@@ -1,6 +1,7 @@
 import nltk
 import os
 import re
+import sys
 import time
 
 def clean_tweet(tweet):
@@ -51,14 +52,13 @@ training_time = round(time.time() - start_time, 2)
 print(training_time)
 #print(tnt_pos_tagger.evaluate(test_data), training_time)
 
-f = open('selected_tweets.txt', 'r')
+f = open(sys.argv[1], 'r')
 for line in f:
 	line = clean_tweet(line)
-	print(tnt_pos_tagger.tag(nltk.word_tokenize(line)))
-	#grammar = r"""
-	#  NP: {<DT|PP\$>?<JJ>*<NN>}   # chunk determiner/possessive, adjectives and noun
-	#	  {<NNP>+}                # chunk sequences of proper nouns
-	#"""
-	#cp = nltk.RegexpParser(grammar)
+	#print(tnt_pos_tagger.tag(nltk.word_tokenize(line)))
+	grammar = r"""
+	  LOC: {<NN>(<NN>|<Unk>)}
+	"""
+	cp = nltk.RegexpParser(grammar)
 
-	#print(cp.parse(tnt_pos_tagger.tag(nltk.word_tokenize(line))))
+	print(cp.parse(tnt_pos_tagger.tag(nltk.word_tokenize(line))))

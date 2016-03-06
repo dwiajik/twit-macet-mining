@@ -37,3 +37,4 @@ pukul
 tetap
 bandara
 macet
+lalulintas
