@@ -13,3 +13,7 @@ yg,yang
 tnpa,tanpa
 rame,ramai
 ramlan,ramai lancar
+deres,deras
+bgt,banget
+boplaz,borobudur plaza
+k,ke
