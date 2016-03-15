@@ -17,6 +17,15 @@ def clean_tweet(tweet):
 	regex = re.compile('[^a-zA-Z]')
 	tweet = regex.sub(' ', tweet)
 
+	regex = re.compile('kondisi')
+	tweet = regex.sub(' ', tweet)
+	regex = re.compile('lalin')
+	tweet = regex.sub(' ', tweet)
+	regex = re.compile('lintas')
+	tweet = regex.sub(' ', tweet)
+	regex = re.compile('arus')
+	tweet = regex.sub(' ', tweet)
+
 	# replace abbreviations
 	replacement_word_list = [line.rstrip('\n').rstrip('\r') for line in open('replacement_word_list.txt')]
 
@@ -53,7 +62,7 @@ tnt_pos_tagger = tnt.TnT()
 start_time = time.time()
 tnt_pos_tagger.train(train_data)
 training_time = round(time.time() - start_time, 2)
-print(training_time)
+print('Training time:', training_time, 'seconds')
 #print(tnt_pos_tagger.evaluate(test_data), training_time)
 
 f = open(sys.argv[1], 'r')
@@ -62,6 +71,7 @@ for line in f:
 	#print(tnt_pos_tagger.tag(nltk.word_tokenize(line)))
 	grammar = r"""
 	  NP: {<NN>(<NN>|<NNP>|<Unk>)+}
+	  JJP: {<JJ>+}
 	"""
 	cp = nltk.RegexpParser(grammar)
 
@@ -78,9 +88,16 @@ for line in f:
 	result = result[:-2]
 	result += ' | '
 
-	for leave in tagged_chunked_line.leaves():
-		if leave[1] == 'JJ' or leave[1] == 'VB':
-			result += leave[0] + ', '
+	for subtree in tagged_chunked_line.subtrees():
+		if subtree.label() == 'JJP': 
+			for leave in subtree.leaves():
+				result += leave[0] + ' '
+			result = result[:-1]
+			result += ', '
+
+	#for leaf in tagged_chunked_line.leaves():
+	#	if leaf[1] == 'JJ':
+	#		result += leaf[0] + ', '
 
 	result = result[:-2]
 

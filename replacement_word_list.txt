@@ -17,3 +17,5 @@ deres,deras
 bgt,banget
 boplaz,borobudur plaza
 k,ke
+kend,kendaraan
+blm,belum
