@@ -1,0 +1,634 @@
+0/PRFX kilometer/B-LOC
+0/PRFX km/B-LOC
+a/PRFX yani/B-LOC
+a/PRFX zakir/B-LOC
+abimanyu/B-LOC
+abu/B-LOC bakar/I-LOC ali/I-LOC
+achmad/B-LOC jazuli/I-LOC
+adi/B-LOC sucipto/I-LOC
+adi/B-LOC sutjipto/I-LOC
+affandi/B-LOC
+agus/B-LOC salim/I-LOC
+ahmad/B-LOC dahlan/I-LOC
+ahmad/B-LOC yani/I-LOC
+aipda/B-LOC tut/I-LOC harsono/I-LOC
+aipk/B-LOC ks/I-LOC tubun/I-LOC
+alun/B-LOC alun/I-LOC kidul/I-LOC
+alun/B-LOC alun/I-LOC lor/I-LOC
+alun-alun/B-LOC kidul/I-LOC
+alun-alun/B-LOC lor/I-LOC
+am/PRFX sangaji/B-LOC
+amo/B-LOC
+andong/B-LOC
+anggrek/B-LOC
+asem/B-LOC gede/I-LOC
+atmo/B-LOC sukarto/I-LOC
+babaran/B-LOC
+babarsari/B-LOC
+baciro/B-LOC
+badran/B-LOC
+balai/B-LOC rk/I-LOC
+balapan/B-LOC
+balirejo/B-LOC
+balirejo/B-LOC i/I-LOC
+bandara/B-LOC
+bangirejotaman/B-LOC
+banjarsari/B-LOC
+bantul/B-LOC
+basuki/B-LOC
+batikan/B-LOC
+bausasran/B-LOC
+bayangkara/B-LOC
+beji/B-LOC
+bener/B-LOC
+bener/B-LOC
+benowo/B-LOC
+beskalan/B-LOC
+bimo/B-LOC kurdo/I-LOC
+bintaran/B-LOC kidul/I-LOC
+bintaran/B-LOC tengah/I-LOC
+bintaran/B-LOC wetan/I-LOC
+blok/B-LOC o/I-LOC
+blunyahrejo/B-LOC
+boplaz/B-LOC
+borobudur/B-LOC plaza/I-LOC
+brigjen/B-LOC katamso/I-LOC
+brontokusuman/B-LOC
+bugisan/B-LOC
+bumijo/B-LOC
+bumijo/B-LOC kidul/I-LOC
+bumijo/B-LOC kulon/I-LOC
+bumijo/B-LOC lor/I-LOC
+bumijo/B-LOC tengah/I-LOC
+bunderan/B-LOC ugm/I-LOC
+c/PRFX simanjuntak/B-LOC
+candra/B-LOC kirana/I-LOC
+cantel/B-LOC i/I-LOC
+cantel/B-LOC ii/I-LOC
+cempaka/B-LOC
+cempaka/B-LOC sari/I-LOC
+cendana/B-LOC
+cendana/B-LOC ii/I-LOC
+cendana/B-LOC ii/I-LOC
+cendana/B-LOC iii/I-LOC
+cik/B-LOC di/I-LOC tiro/I-LOC
+cipto/B-LOC wiloho/I-LOC
+code/B-LOC
+cokrodiningratan/B-LOC
+cokrodipuran/B-LOC
+condronegaran/B-LOC
+condong/B-LOC
+condongcatur/B-LOC
+condong/B-LOC catur/I-LOC
+cuwiri/B-LOC
+dagen/B-LOC
+damai/B-LOC
+danurejan/B-LOC
+dara/B-LOC dasih/I-LOC
+demak/B-LOC ijo/I-LOC
+demakan/B-LOC
+demangan/B-LOC
+demangan/B-LOC baru/I-LOC
+depokan/B-LOC
+dewan/B-LOC karang/I-LOC nongko/I-LOC
+dewi/B-LOC sartika/I-LOC
+diponegaro/B-LOC
+dipowinatan/B-LOC
+dongkelan/B-LOC
+dr/PRFX sam/B-LOC ratulangi/I-LOC
+dr/PRFX sarjito/B-LOC
+dr/PRFX soepomo/B-LOC
+dr/PRFX sutomo/B-LOC
+dr/PRFX wahidin/B-LOC sudiro/I-LOC
+druwo/B-LOC
+dukuh/B-LOC
+fm/PRFX noto/B-LOC
+gadean/B-LOC
+gading/B-LOC
+gadjah/B-LOC mada/I-LOC
+gagak/B-LOC rimang/I-LOC
+gajah/B-LOC
+gajah/B-LOC mada/I-LOC
+gambir/B-LOC
+gambir/B-LOC anom/I-LOC
+gambir/B-LOC sawit/I-LOC
+gambiran/B-LOC
+gamelan/B-LOC
+gamelan/B-LOC kidul/I-LOC
+gamelan/B-LOC lor/I-LOC
+gamping/B-LOC
+gampingan/B-LOC
+gampingan/B-LOC baru/I-LOC i/I-LOC
+gampingan/B-LOC baru/I-LOC ii/I-LOC
+gandekan/B-LOC
+gayam/B-LOC
+gedong/B-LOC kiwo/I-LOC
+gedong/B-LOC kuning/I-LOC
+gedong/B-LOC tengen/I-LOC
+gedongkiwo/B-LOC
+gedongkuning/B-LOC
+gejayan/B-LOC
+gerilya/B-LOC
+giwangan/B-LOC
+giwangan/B-LOC
+glagahsari/B-LOC
+godean/B-LOC
+golo/B-LOC
+gondokusuman/B-LOC
+gondomanan/B-LOC
+gondosuli/B-LOC
+gotong/B-LOC royong/I-LOC
+gotong/B-LOC royong/I-LOC i/I-LOC
+gowok/B-LOC
+gowongan/B-LOC
+gowongan/B-LOC kidul/I-LOC
+gowongan/B-LOC lor/I-LOC
+gramedia/B-LOC
+guno/B-LOC mrico/I-LOC
+gunung/B-LOC ketur/I-LOC
+hadi/B-LOC darsono/I-LOC
+halaman/PRFX taman/B-LOC
+hansip/PRFX karno/B-LOC waluyo/I-LOC
+harjo/B-LOC winatan/I-LOC
+harjono/B-LOC
+haryono/B-LOC
+hayam/B-LOC wuruk/I-LOC
+hibrida/B-LOC
+hos/PRFX cokroaminoto/B-LOC
+iain/B-LOC
+ibu/PRFX ruswo/B-LOC
+imogiri/B-LOC
+indraprasta/B-LOC
+ireda/B-LOC
+iromejan/B-LOC
+jagalan/B-LOC
+jambon/B-LOC
+janti/B-LOC
+jati/B-LOC kencana/I-LOC
+jatikencana/B-LOC
+jatimuyo/B-LOC
+jayeng/B-LOC prawiran/I-LOC
+jend/B-LOC sudirman/I-LOC
+jenggotan/B-LOC
+jetis/B-LOC
+jetisharjo/B-LOC
+jlagran/B-LOC
+jlagran/B-LOC lor/I-LOC
+jogokaryan/B-LOC
+johar/B-LOC nurhadi/I-LOC
+juminah/B-LOC
+juwadi/B-LOC
+jujur/B-LOC
+kadipaten/B-LOC
+kadipaten/B-LOC kulon/I-LOC
+kadipaten/B-LOC lor/I-LOC
+kahan/B-LOC muzakar/I-LOC
+kalisahak/B-LOC
+kaliurang/B-LOC
+kantil/B-LOC
+kantor/PRFX pos/B-LOC besar/I-LOC
+kap/PRFX usman/B-LOC bin/I-LOC said/I-LOC
+kapas/B-LOC
+kapas/B-LOC ii/I-LOC
+kapas/B-LOC iii/I-LOC
+kapten/B-LOC laut/I-LOC samadikun/I-LOC
+karang/B-LOC waru/I-LOC
+karangkajen/B-LOC
+karanglo/B-LOC
+karangsari/B-LOC
+karangwaru/B-LOC
+kartini/B-LOC
+kasongan/B-LOC
+kasihan/B-LOC
+katamso/B-LOC
+kauman/B-LOC
+kebondalem/B-LOC
+kebun/B-LOC raya/I-LOC
+kemakmuran/B-LOC
+kemasan/B-LOC
+kemetiran/B-LOC
+kemetiran/B-LOC kidul/I-LOC
+kemetiran/B-LOC lor/I-LOC
+kemitbumen/B-LOC
+kemuning/B-LOC
+kenanga/B-LOC
+kenari/B-LOC
+kenekan/B-LOC
+kentungan/B-LOC
+keparakan/B-LOC
+kerto/B-LOC
+kesatrian/B-LOC
+ketandan/B-LOC
+ketandan/B-LOC kulon/I-LOC
+ketandan/B-LOC wetan/I-LOC
+kh/PRFX ahmad/B-LOC dahlan/I-LOC
+ki/PRFX ageng/B-LOC pamanahan/I-LOC
+ki/PRFX mangun/B-LOC sarkoro/I-LOC
+ki/PRFX penjawi/B-LOC
+kids/B-LOC fun/I-LOC
+kleben/B-LOC
+kleringan/B-LOC
+klitren/B-LOC
+km/PRFX 0/B-LOC
+km/PRFX nol/B-LOC
+kol/PRFX sugiyono/B-LOC
+kompleks/PRFX minggiran/B-LOC
+kompol/PRFX b/PRFX suprapto/B-LOC
+kotabaru/B-LOC
+kotagede/B-LOC
+kranggan/B-LOC
+krasak/B-LOC
+kraton/B-LOC
+kresno/B-LOC
+kricak/B-LOC
+krongahan/B-LOC
+ks/PRFX tubun/B-LOC
+kusbini/B-LOC
+kusbini/B-LOC
+kusuma/B-LOC
+kusuma/B-LOC negara/I-LOC
+kusumanegara/B-LOC
+kyai/B-LOC mojo/I-LOC
+kyai/B-LOC sono/I-LOC
+laksda/B-LOC adi/I-LOC sucipto/I-LOC
+laksda/B-LOC adisucipto/I-LOC
+landung/B-LOC
+langenarjan/B-LOC
+langenarjan/B-LOC kidul/I-LOC
+langenarjan/B-LOC lor/I-LOC
+langenastran/B-LOC kidul/I-LOC
+langenastran/B-LOC lor/I-LOC
+langgen/B-LOC sari/I-LOC
+lawu/B-LOC
+lempuyangan/B-LOC
+letjen/B-LOC s/I-LOC parman/I-LOC
+letjen/B-LOC suprapto/I-LOC
+limaran/B-LOC
+lobaningratan/B-LOC
+lokananta/B-LOC
+lowano/B-LOC
+lpp/I-LOC
+madesari/B-LOC
+madiyosuro/B-LOC
+madu/B-LOC murti/I-LOC
+madubronto/B-LOC
+magangan/B-LOC
+magelang/B-LOC
+maguwo/B-LOC
+maguwoharjo/B-LOC
+malioboro/B-LOC
+mangga/B-LOC
+mangku/B-LOC negaran/I-LOC
+mangku/B-LOC negaran/I-LOC kulon/I-LOC
+mangku/B-LOC negaran/I-LOC wetan/I-LOC
+mangkubumen/B-LOC
+mangkubumi/B-LOC
+mangkunegaran/B-LOC
+mangkunegaran/B-LOC kulon/I-LOC
+mangkunegaran/B-LOC wetan/I-LOC
+mangkurat/B-LOC
+mangkuyudan/B-LOC
+mangun/B-LOC sarkoro/I-LOC
+mantri/B-LOC gawen/I-LOC
+mantri/B-LOC gawen/I-LOC kidul/I-LOC
+mantrigawen/B-LOC
+mantrigawen/B-LOC kidul/I-LOC
+mantrijeron/B-LOC
+manunggal/B-LOC
+mas/PRFX suharto/B-LOC
+masjid/B-LOC pa/I-LOC
+masjid/B-LOC pakuncen/I-LOC
+mataram/B-LOC
+mawar/B-LOC
+mayang/B-LOC
+mayjen/B-LOC sutoyo/I-LOC
+mayor/B-LOC laut/I-LOC wiratmo/I-LOC
+mayor/B-LOC suryotomo/I-LOC
+melati/B-LOC sorowajan/I-LOC
+melati/B-LOC wetan/I-LOC
+melia/B-LOC purosani/I-LOC
+mendungan/B-LOC
+mendungan/B-LOC i/I-LOC
+menjangan/B-LOC
+mentok/B-LOC
+menukan/B-LOC
+menur/B-LOC
+menur/B-LOC baru/I-LOC
+mergangsan/B-LOC
+minggiran/B-LOC
+mm/B-LOC ugm/I-LOC
+mmugm/B-LOC
+modang/B-LOC
+mojar/B-LOC
+mojo/B-LOC
+mondoliko/B-LOC
+mondorakan/B-LOC
+monggiran/B-LOC
+monginsidi/B-LOC
+monjali/B-LOC
+monumen/B-LOC tegal/I-LOC rejo/I-LOC
+mt/PRFX haryono/B-LOC
+muja/B-LOC muju/I-LOC
+munggur/B-LOC
+mutiara/B-LOC
+nagan/B-LOC
+nagan/B-LOC kidul/I-LOC
+nagan/B-LOC kulon/I-LOC
+nagan/B-LOC lor/I-LOC
+nagan/B-LOC tengah/I-LOC
+nogosari/B-LOC
+nagasari/B-LOC
+nagasari/B-LOC kidul/I-LOC
+nagasari/B-LOC lor/I-LOC
+namburan/B-LOC kidul/I-LOC
+namburan/B-LOC lor/I-LOC
+ngadikan/B-LOC
+ngadimulyo/B-LOC
+ngadinegaran/B-LOC
+ngadisuryan/B-LOC
+ngampilan/B-LOC
+ngasem/B-LOC
+ngeksigondo/B-LOC
+ngentak/B-LOC puluhdadi/I-LOC
+ngupasa/B-LOC
+nitidipuran/B-LOC
+nitikan/B-LOC
+nogobondo/B-LOC
+nogopuro/B-LOC
+nol/PRFX kilometer/B-LOC
+nol/PRFX km/B-LOC
+nologaten/B-LOC
+noto/B-LOC
+notoprajan/B-LOC
+nototarunan/B-LOC
+notowinatan/B-LOC
+nyai/PRFX ahmad/B-LOC dahlan/I-LOC
+nyi/PRFX adisoro/B-LOC
+nyi/PRFX ageng/B-LOC nis/I-LOC
+nyi/PRFX pembayun/B-LOC
+otek/B-LOC
+p/PRFX benowo/B-LOC
+p/PRFX mangkurat/B-LOC
+p/PRFX purbo/B-LOC
+p/PRFX senopati/B-LOC
+p/PRFX tompe/B-LOC
+p/PRFX wirosobo/B-LOC
+pabringan/I-LOC
+pajeksan/I-LOC
+pakarti/I-LOC
+pakaryan/I-LOC
+pakel/I-LOC
+pakualaman/I-LOC
+pakuncen/I-LOC
+pakuncen/I-LOC
+pakuningratan/I-LOC
+pamanahan/I-LOC
+pamularsih/I-LOC
+pandean/I-LOC
+pandeyan/I-LOC
+pandu/I-LOC
+panembahan/I-LOC
+panembahan/B-LOC benowo/I-LOC
+panembahan/B-LOC mangkurat/I-LOC
+panembahan/B-LOC purbo/I-LOC
+panembahan/B-LOC senopati/I-LOC
+panembahan/B-LOC tompe/I-LOC
+panembahan/B-LOC wirosobo/I-LOC
+panjaitan/I-LOC
+panti/B-LOC panaungan/I-LOC
+parangtritis/B-LOC
+pareanom/B-LOC
+parman/B-LOC
+pasarkembang/B-LOC
+pasar/B-LOC kembang/I-LOC
+pasiraman/B-LOC
+patangpuluhanB-LOC
+patean/B-LOC
+patehan/B-LOC
+patehan/B-LOC
+patehan/B-LOC kidul/I-LOC
+patehan/B-LOC kulon/I-LOC
+patehan/B-LOC lor/I-LOC
+patehan/B-LOC tengah/I-LOC
+patehan/B-LOC wetan/I-LOC
+patimura/B-LOC
+patran/B-LOC
+pelem/B-LOC iii/I-LOC
+peleman/B-LOC
+pelemsari/B-LOC
+pemukti/B-LOC
+pengok/B-LOC kidul/I-LOC
+perintis/B-LOC kemerdekaan/I-LOC
+permadi/B-LOC
+permata/B-LOC
+perum/B-LOC gambiran/I-LOC
+perwakilan/B-LOC
+pesindenan/B-LOC
+petak/B-LOC baru/I-LOC
+petung/B-LOC
+piere/B-LOC tendean/I-LOC
+pilahan/B-LOC
+pingit/B-LOC
+pku/B-LOC
+pku/B-LOC muh/I-LOC
+pku/B-LOC muhammadiyah/I-LOC
+pogung/B-LOC
+pojok/PRFX beteng/B-LOC
+polowijan/B-LOC
+poncowinatan/B-LOC
+ponggalan/B-LOC
+prahu/B-LOC
+prambanan/B-LOC
+pramuka/B-LOC
+prapanca/B-LOC
+prawirodirjan/B-LOC
+prawirotaman/B-LOC
+prenggan/B-LOC
+pringgokusuman/B-LOC
+pringwulung/B-LOC
+prof/B-LOC dr/I-LOC soepomo/I-LOC
+prof/B-LOC yohanes/I-LOC
+proliman/B-LOC
+pugeran/B-LOC
+pugeran/B-LOC barat/I-LOC
+pugeran/B-LOC timur/I-LOC
+puntodewo/B-LOC
+purbayan/B-LOC
+purbo/B-LOC
+purwanggan/B-LOC
+purwo/B-LOC kinanti/I-LOC
+r/PRFX renggo/B-LOC
+r/PRFX renggo/B-LOC i/I-LOC
+r/PRFX renggo/B-LOC ii/I-LOC
+raya/B-LOC madukismo/I-LOC
+re/PRFX martadinata/B-LOC
+rejowinangun/B-LOC
+reksobayan/B-LOC
+remujung/B-LOC
+renggo/B-LOC
+resiwiyoso/B-LOC
+retno/B-LOC dumirah/I-LOC
+ringin/B-LOC putih/I-LOC
+ronodigdayan/B-LOC
+rotowijayan/B-LOC
+rs/PRFX pku/B-LOC
+s/PRFX parman/B-LOC
+sabirin/B-LOC
+sadewo/B-LOC
+sagan/B-LOC
+sagan/B-LOC i/I-LOC
+sagan/B-LOC ii/I-LOC
+sajiono/B-LOC
+sam/B-LOC ratulangi/I-LOC
+samadikun/B-LOC
+sandiloto/B-LOC
+sangaji/B-LOC
+sardjito/B-LOC
+sareh/B-LOC
+sarjito/B-LOC
+sartono/B-LOC
+sastrodipuran/B-LOC
+sawit/B-LOC
+sawojajar/B-LOC
+sedayu/B-LOC
+sedayu/B-LOC
+sekarwijan/B-LOC
+selokan/B-LOC mataram/I-LOC
+semaki/B-LOC
+semangu/B-LOC
+senopati/B-LOC
+serangan/B-LOC
+serma/B-LOC romli/I-LOC
+sertu/B-LOC harun/I-LOC m/I-LOC ali/I-LOC
+seturan/B-LOC
+sewandanan/B-LOC
+sgm/B-LOC
+sidikan/B-LOC
+sidobali/B-LOC
+sidobali/B-LOC i/I-LOC
+sidokabul/B-LOC
+sidomukti/B-LOC
+silir/B-LOC kidul/I-LOC
+silir/B-LOC lor/I-LOC
+simanjuntak/B-LOC
+singojayan/B-LOC
+singoranu/B-LOC
+sisingamangaraja/B-LOC
+soepomo/B-LOC
+soga/B-LOC
+soka/B-LOC
+solo/B-LOC
+sorogenen/B-LOC
+soropadan/B-LOC
+sorosutan/B-LOC
+sosromenduran/B-LOC
+sosrowijayan/B-LOC
+sriwedari/B-LOC
+stadion/B-LOC
+stasiun/B-LOC
+sugeng/B-LOC jeroni/I-LOC
+sugiyono/B-LOC
+suhada/B-LOC
+suhartono/B-LOC
+sukonandi/B-LOC
+sukonandi/B-LOC i/I-LOC
+sukonandi/B-LOC ii/I-LOC
+sukonandi/B-LOC iii/I-LOC
+sultan/B-LOC agung/I-LOC
+sunaryo/B-LOC
+supardi/B-LOC
+suprapto/B-LOC
+suripto/B-LOC
+surogaman/B-LOC
+surokarsan/B-LOC
+suronatan/B-LOC
+suroto/B-LOC
+suryatmajan/B-LOC
+suryodiningratan/B-LOC
+suryomentaraman/B-LOC
+suryonegaran/B-LOC
+suryopranoto/B-LOC
+suryoputran/B-LOC
+sutomo/B-LOC
+tahunan/B-LOC
+taman/B-LOC siswa/I-LOC
+tamansiswa/B-LOC
+tegal/B-LOC gendu/I-LOC
+tegal/B-LOC kemuning/I-LOC
+tegal/B-LOC lempuyangan/I-LOC
+tegal/B-LOC mulyo/I-LOC
+tegal/B-LOC panggung/I-LOC
+tegal/B-LOC rejo/I-LOC
+tegal/B-LOC turi/I-LOC
+tegalrejo/B-LOC
+telomoyo/B-LOC
+tempel/B-LOC
+tentara/B-LOC pelajar/I-LOC
+tentara/B-LOC rakyat/I-LOC mataram/I-LOC
+teratai/B-LOC
+terban/B-LOC
+terbantaman/B-LOC
+tilarso/B-LOC
+timoho/B-LOC
+tirtodipuran/B-LOC
+tohpati/B-LOC
+tompe/B-LOC
+tompeyan/B-LOC
+tri/B-LOC margo/I-LOC
+tri/B-LOC tunggal/I-LOC
+tribatra/B-LOC
+tridarma/B-LOC
+trikora/B-LOC
+trimo/B-LOC
+tugu/B-LOC
+tukangan/B-LOC
+tunjung/B-LOC
+turonggo/B-LOC
+turonggo/B-LOC seto/I-LOC
+tut/B-LOC harsono/I-LOC
+uin/B-LOC
+ugm/B-LOC
+umbulharjo/B-LOC
+umum/B-LOC kalipan/I-LOC
+uny/B-LOC
+upn/B-LOC
+upn/B-LOC seturan/I-LOC
+urip/B-LOC sumoharjo/I-LOC
+usman/B-LOC bin/I-LOC said/I-LOC
+veteran/B-LOC
+w/PRFX mongisidi/B-LOC
+wahid/B-LOC hasyim/I-LOC
+wahidin/B-LOC sudiro/I-LOC
+wardani/B-LOC
+warungboto/B-LOC
+wates/B-LOC
+watugilang/B-LOC
+werkudoro/B-LOC
+werkudoro/B-LOC
+wijilan/B-LOC
+wiratmo/B-LOC
+wirobrajan/B-LOC
+wirogunan/B-LOC
+wiroguno/B-LOC
+wirosobo/B-LOC
+wirotomo/B-LOC
+wongso/B-LOC dirjan/I-LOC
+wonosari/B-LOC
+wora-wari/B-LOC
+yani/B-LOC
+yohanes/B-LOC
+yos/B-LOC sudarso/I-LOC
+zakir/B-LOC
+jalan/PRFX
+simpang/PRFX
+pertigaan/PRFX
+perempatan/PRFX
+seputaran/PRFX
+sekitaran/PRFX
+sekitar/PRFX
+stasiun/PRFX
+terminal/PRFX
+daerah/PRFX
+ruas/PRFX
+kawasan/PRFX
+wilayah/PRFX

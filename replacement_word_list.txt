@@ -19,3 +19,5 @@ boplaz,borobudur plaza
 k,ke
 kend,kendaraan
 blm,belum
+concat,condongcatur
+jokteng,pojok beteng

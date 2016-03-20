@@ -51,6 +51,11 @@ def f_measure(precision, recall):
 traffic_tweets = [(line, 'traffic') for line in open('tweets_corpus/traffic_tweets_combined.txt')]
 non_traffic_tweets = [(line, 'non_traffic') for line in open('tweets_corpus/random_tweets.txt')] + \
 	[(line, 'non_traffic') for line in open('tweets_corpus/non_traffic_tweets.txt')]
+random.shuffle(traffic_tweets)
+random.shuffle(non_traffic_tweets)
+
+traffic_tweets = traffic_tweets[:min([len(traffic_tweets), len(non_traffic_tweets)])]
+non_traffic_tweets = non_traffic_tweets[:min([len(traffic_tweets), len(non_traffic_tweets)])]
 
 labeled_tweets = (traffic_tweets + non_traffic_tweets)
 random.shuffle(labeled_tweets)

@@ -1,74 +1,153 @@
+0 kilometer
+0 km
+A Yani
+A Zakir
 Abimanyu
 Abu Bakar Ali
 Achmad Jazuli
-Adisoro
+Adi Sucipto
+Adi Sutjipto
 Affandi
-Ageng Nis
-Ageng Pamanahan
+Agus Salim
+Ahmad Dahlan
+Ahmad Yani
+Aipda Tut Harsono
+Aipk KS Tubun
+Alun Alun Kidul
+Alun Alun Lor
+Alun-Alun Kidul
+Alun-Alun Lor
+AM Sangaji
+Amo
+Andong
+Anggrek
 Asem Gede
 Atmo Sukarto
 Babaran
 Babarsari
 Baciro
+badran
+Balai RK
 Balapan
 Balirejo
+Balirejo I
+Bandara
 Bangirejotaman
 Banjarsari
 Bantul
+Basuki
 Batikan
 Bausasran
+Bayangkara
 Beji
+Bener
+Bener
 Benowo
 Beskalan
 Bimo Kurdo
-Bintaran
+Bintaran Kidul
+Bintaran Tengah
+Bintaran Wetan
+blok o
 Blunyahrejo
+boplaz
+Brigjen Katamso
 Brontokusuman
 Bugisan
 Bumijo
+Bumijo Kidul
+Bumijo Kulon
+Bumijo Lor
+Bumijo Tengah
+C Simanjuntak
 Candra Kirana
-Cantel
+Cantel I
+Cantel II
+Cempaka
+Cempaka Sari
+Cendana
+Cendana II
+Cendana II
+Cendana III
+Cik Di Tiro
 Cipto Wiloho
 Cokrodiningratan
 Cokrodipuran
 Condronegaran
 Cuwiri
+Dagen
+Damai
 Danurejan
 Dara Dasih
+demak ijo
 Demakan
 Demangan
 Demangan Baru
 Depokan
+Dewan Karang Nongko
+Dewi Sartika
+Diponegaro
 Dipowinatan
 Dongkelan
+DR Sam Ratulangi
+DR Sarjito
+Dr Soepomo
+Dr Sutomo
+Dr Wahidin Sudiro
+Dukuh
+FM Noto
 Gadean
+Gading
+Gadjah Mada
 Gagak Rimang
+Gajah
+Gajah Mada
+Gambir
+Gambir Anom
+Gambir Sawit
 Gambiran
 Gamelan
 Gamelan Kidul
 Gamelan Lor
+Gamping
 Gampingan
+Gampingan Baru I
+Gampingan Baru II
 Gandekan
 Gayam
 Gedong Kiwo
+Gedong kuning
 Gedong Tengen
 Gedongkiwo
-Gedongtengen
+gedongkuning
 Gejayan
+Gerilya
+Giwangan
 Giwangan
 Glagahsari
+Golo
 Gondokusuman
 Gondomanan
 Gondosuli
+Gotong Royong
+Gotong Royong I
 Gowok
 Gowongan
+Gowongan Kidul
+Gowongan Lor
+gramedia
 Guno Mrico
 Gunung Ketur
 Hadi Darsono
+Halaman Taman
 Hansip Karno Waluyo
 Harjo Winatan
 Harjono
 Haryono
+Hayam Wuruk
+Hibrida
+HOS Cokroaminoto
+IAIN
 Ibu Ruswo
 Imogiri
 Indraprasta
@@ -77,98 +156,178 @@ Iromejan
 Jagalan
 Jambon
 Janti
+jati kencana
 Jatimuyo
 Jayeng Prawiran
+Jend Sudirman
 Jenggotan
 Jetis
 Jetisharjo
 Jlagran
+Jlagran Lor
 Jogokaryan
 Johar Nurhadi
 Juminah
 Juwadi
 Kadipaten
+Kadipaten Kulon
+Kadipaten Lor
+Kahan Muzakar
 Kalisahak
 Kaliurang
 Kantil
+Kantor Pos
+KAP KKO Usman Bin Said
 Kapas
+Kapas II
+Kapas III
+Kapten Laut Samadikun
 Karang Waru
 Karangkajen
 Karanglo
 Karangsari
 Karangwaru
+Kartini
 Kasongan
+Katamso
 Kauman
 Kebondalem
+Kebun Raya
+Kemakmuran
 Kemasan
 Kemetiran
+Kemetiran Kidul
+Kemetiran Lor
 Kemitbumen
 Kemuning
 Kenanga
 Kenari
 Kenekan
+Kentungan
 Keparakan
+Kerto
 Kesatrian
 Ketandan
+Ketandan Kulon
+Ketandan Wetan
+KH Ahmad Dahlan
+Ki Ageng Pamanahan
+Ki Mangun Sarkoro
+Ki Penjawi
+Kids Fun
 Kleben
 Kleringan
 Klitren
+km 0
+km nol
+Kol Sugiyono
+Kompleks Minggiran
+Kompol B Suprapto
+Kotabaru
+Kotagede
+Kranggan
 Krasak
+Kraton
 Kresno
 Kricak
-Kricak
+KS Tubun
 Kusbini
+Kusbini
+Kusuma
 Kusuma Negara
 Kusumanegara
-Adi Sucipto
+Kyai Mojo
+Kyai Sono
+Laksda Adi Sucipto
 Landung
 Langenarjan
+Langenarjan Kidul
+Langenarjan Lor
+Langenastran Kidul
+Langenastran Lor
 Langgen Sari
 Lawu
 Lempuyangan
+Letjen S Parman
+Letjen Suprapto
 Limaran
 Lobaningratan
 Lokananta
+Lor Pasar
 Lowano
+LPP
 Madesari
 Madiyosuro
 Madu Murti
 Madubronto
 Magangan
 Magelang
+Maguwo
+Maguwoharjo
 Malioboro
+Mangga
 Mangku Negaran
+Mangku Negaran Kulon
+Mangku Negaran Wetan
 Mangkubumen
 Mangkubumi
 Mangkunegaran
+Mangkunegaran Kulon
+Mangkunegaran Wetan
 Mangkurat
 Mangkuyudan
+Mangun Sarkoro
 Mantri Gawen
+Mantri Gawen Kidul
 Mantrigawen
+Mantrigawen Kidul
 Mantrijeron
-Martadinata
+Manunggal
+Mas Suharto
+Masjid PA
+Masjid Pakuncen
+Mataram
+Mawar
 Mayang
+Mayjen Sutoyo
+Mayor Laut Wiratmo
+Mayor Suryotomo
 Melati Sorowajan
 Melati Wetan
 Mendungan
+Mendungan I
 Menjangan
 Mentok
 Menukan
 Menur
+Menur Baru
 Mergangsan
 Minggiran
+mm ugm
+mmugm
 Modang
 Mojar
+Mojo
 Mondoliko
 Mondorakan
+Monggiran
 Monginsidi
+Monumen Tegal Rejo
+MT Haryono
 Muja Muju
 Munggur
+Mutiara
 Nagan
+Nagan Kidul
+Nagan Kulon
+Nagan Lor
+Nagan Tengah
+Nogosari
 Nagasari
 Nagasari Kidul
 Nagasari Lor
-Namburan
+Namburan Kidul
+Namburan Lor
 Ngadikan
 Ngadimulyo
 Ngadinegaran
@@ -177,16 +336,29 @@ Ngampilan
 Ngasem
 Ngeksigondo
 Ngentak Puluhdadi
-Ngupasan
+Ngupasa
 Nitidipuran
 Nitikan
 Nogobondo
 Nogopuro
+nol kilometer
+nol km
 Nologaten
+Noto
 Notoprajan
 Nototarunan
 Notowinatan
+Nyai Ahmad Dahlan
+Nyi Adisoro
+Nyi Ageng Nis
+Nyi Pembayun
 Otek
+P Benowo
+P Mangkurat
+P Purbo
+P Senopati
+P Tompe
+P Wirosobo
 Pabringan
 Pajeksan
 Pakarti
@@ -194,103 +366,156 @@ Pakaryan
 Pakel
 Pakualaman
 Pakuncen
+Pakuncen
 Pakuningratan
+Pamanahan
 Pamularsih
 Pandean
 Pandeyan
 Pandu
 Panembahan
+Panembahan Benowo
+Panembahan Mangkurat
+Panembahan Purbo
+Panembahan Senopati
+Panembahan Tompe
+Panembahan Wirosobo
 Panjaitan
 Panti Panaungan
 Parangtritis
 Pareanom
 Parman
-Pasar Kembang
 Pasarkembang
+Pasar Kembang
 Pasiraman
 Patangpuluhan
 Patehan
+Patehan Kidul
+Patehan Kulon
+Patehan Lor
+Patehan Tengah
+Patehan Wetan
+Patimura
+patran
+Pelem III
 Peleman
 Pelemsari
-Pembayun
 Pemukti
 Pengok Kidul
-Penjawi
+Perintis Kemerdekaan
 Permadi
+Permata
 Perum Gambiran
 Perwakilan
 Pesindenan
 Petak Baru
 Petung
+Piere Tendean
 Pilahan
 Pingit
+PKU
+PKU Muh
+PKU Muhammadiyah
+pogung
 Polowijan
 Poncowinatan
 Ponggalan
 Prahu
+Prambanan
+Pramuka
 Prapanca
-Prawirodirjan
+Prawirodirja
 Prawirotaman
 Prenggan
 Pringgokusuman
 Pringwulung
+Prof Dr Soepomo
+Prof Yohanes
+proliman
 Pugeran
+Pugeran Barat
+Pugeran Timur
 Puntodewo
 Purbayan
-Purbayan
+Purbo
 Purwanggan
 Purwo Kinanti
+R Renggo
+R Renggo I
+R Renggo II
 Raya Madukismo
+RE Martadinata
 Rejowinangun
 Reksobayan
 Remujung
 Renggo
 Resiwiyoso
-Retno Dumilah
+Retno Dumirah
 Ringin Putih
 Ronodigdayan
 Rotowijayan
+RS PKU
+S Parman
 Sabirin
 Sadewo
 Sagan
+Sagan I
+Sagan II
 Sajiono
+Sam Ratulangi
+Samadikun
 Sandiloto
+Sangaji
 Sardjito
 Sareh
 Sarjito
 Sartono
 Sastrodipuran
+Sawit
 Sawojajar
 Sedayu
+Sedayu
 Sekarwijan
+selokan mataram
 Semaki
 Semangu
 Senopati
 Serangan
 Serma Romli
-Sertu Harun Ali
+Sertu Harun M Ali
+Seturan
 Sewandanan
+SGM
 Sidikan
 Sidobali
+Sidobali I
 Sidokabul
 Sidomukti
 Silir Kidul
 Silir Lor
+Simanjuntak
 Singojayan
 Singoranu
 Sisingamangaraja
+Soepomo
+Soga
+Soka
 Sorogenen
 Soropadan
 Sorosutan
 Sosromenduran
 Sosrowijayan
 Sriwedari
+Stadion
+Stasiun
 Sugeng Jeroni
 Sugiyono
 Suhada
-Suharto
 Suhartono
 Sukonandi
+Sukonandi I
+Sukonandi II
+Sukonandi III
 Sultan Agung
 Sunaryo
 Supardi
@@ -306,11 +531,20 @@ Suryomentaraman
 Suryonegaran
 Suryopranoto
 Suryoputran
-Suryotomo
 Sutomo
-Sutoyo
+Tahunan
+Taman
+Taman Siswa
+Tegal Gendu
+Tegal Kemuning
+Tegal Lempuyangan
+Tegal Mulyo
+Tegal Panggung
+Tegal Rejo
+Tegal Turi
 Tegalrejo
 Telomoyo
+tempel
 Tentara Pelajar
 Tentara Rakyat Mataram
 Teratai
@@ -322,17 +556,32 @@ Tirtodipuran
 Tohpati
 Tompe
 Tompeyan
+Tri Margo
+Tri Tunggal
 Tribatra
 Tridarma
+Trikora
 Trimo
+Tugu
 Tukangan
 Tunjung
+Turonggo
+Turonggo Seto
+Tut Harsono
+uin
 Umbulharjo
 Umum Kalipan
+Urip Sumoharjo
+Usman Bin Said
+Veteran
+W Mongisidi
+Wahid Hasyim
+Wahidin Sudiro
 Wardani
 Warungboto
 Wates
 Watugilang
+Werkudoro
 Werkudoro
 Wijilan
 Wiratmo
@@ -342,23 +591,9 @@ Wiroguno
 Wirosobo
 Wirotomo
 Wongso Dirjan
-Woro-wari
-Gembiraloka
-Gembira loka
-Yogyakarta
-Jogjakarta
-Jogja
-Yogya
-Jokteng
-Pojok beteng
-Adisutjipto
-Adi Sutjipto
-lalinjogja
-RTMC_Jogja
-ATCS_DIY
-jogjaupdate
-jogja24jam
-infojogja
-yogyakartacity
-jogjamedia
-tribunjogja
+Wonosari
+Wora-wari
+Yani
+Yohanes
+Yos Sudarso
+Zakir
