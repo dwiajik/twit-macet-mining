@@ -191,46 +191,52 @@ class TwitterStreamer(StreamListener):
             # if self.classifier.naive_bayes_classify(tweet) is 'traffic' or \
             # self.classifier.svm_classify(tweet) is 'traffic' or \
             # self.classifier.decision_tree_classify(tweet) is 'traffic':
+
+            nb_result = str(self.classifier.naive_bayes_classify(tweet))
+            svm_result = str(self.classifier.svm_classify(tweet))
+            dt_result = str(self.classifier.decision_tree_classify(tweet))
+
             if sys.argv[1] == "dev":
                 print('| ' + datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
-                      '\t| ' + self.classifier.naive_bayes_classify(tweet),
-                      '\t| ' + self.classifier.svm_classify(tweet),
-                      '\t| ' + self.classifier.decision_tree_classify(tweet),
+                      '\t| ' + nb_result,
+                      '\t| ' + svm_result,
+                      '\t| ' + dt_result,
                       '\t| ' + tweet)
                 with open(os.path.dirname(__file__) + 'classified_tweets.txt', 'a') as f:
                     f.write('\n| ' + datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S") +
-                            '\t| ' + self.classifier.naive_bayes_classify(tweet) +
-                            '\t| ' + self.classifier.svm_classify(tweet) +
-                            '\t| ' + self.classifier.decision_tree_classify(tweet) +
+                            '\t| ' + nb_result +
+                            '\t| ' + svm_result +
+                            '\t| ' + dt_result +
                             '\t| ' + tweet)
                 with open(os.path.dirname(__file__) + 'classified_tweets.csv', 'a') as f:
                     f.write('"' + datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S") +
-                            '","' + self.classifier.naive_bayes_classify(tweet) +
-                            '","' + self.classifier.svm_classify(tweet) +
-                            '","' + self.classifier.decision_tree_classify(tweet) +
+                            '","' + nb_result +
+                            '","' + svm_result +
+                            '","' + dt_result +
                             '","' + tweet + '"\n')
 
-            ts = datetime.datetime.strftime(datetime.datetime.strptime(json.loads(data)['created_at'], 
-                '%a %b %d %H:%M:%S +0000 %Y') + datetime.timedelta(hours=7), '%Y-%m-%d %H:%M:%S')
+            if nb_result == "traffic" or svm_result == "traffic" or dt_result == "traffic":
+                ts = datetime.datetime.strftime(datetime.datetime.strptime(json.loads(data)['created_at'], 
+                    '%a %b %d %H:%M:%S +0000 %Y') + datetime.timedelta(hours=7), '%Y-%m-%d %H:%M:%S')
 
-            con = mysql.connector.connect(host='localhost', database='twitmacet', user='root', password='')
-            cur = con.cursor()
-            add_tweet = (
-            "INSERT INTO tweets(date_time, user_id, raw_tweet, naive_bayes, svm, decision_tree, detected_locations, created_at) VALUES(%s, %s, %s, %s, %s, %s, %s, %s)")
-            tweet_data = (
-                ts, 
-                json.loads(data)['user']['id_str'],
-                tweet, 
-                str(self.classifier.naive_bayes_classify(tweet)), 
-                str(self.classifier.svm_classify(tweet)),
-                str(self.classifier.decision_tree_classify(tweet)), 
-                str(self.location.find_locations(tweet)),
-                datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-            )
-            cur.execute(add_tweet, tweet_data)
-            con.commit()
+                con = mysql.connector.connect(host='localhost', database='twitmacet', user='root', password='')
+                cur = con.cursor()
+                add_tweet = (
+                "INSERT INTO tweets(date_time, user_id, raw_tweet, naive_bayes, svm, decision_tree, detected_locations, created_at) VALUES(%s, %s, %s, %s, %s, %s, %s, %s)")
+                tweet_data = (
+                    ts, 
+                    json.loads(data)['user']['id_str'],
+                    tweet, 
+                    nb_result, 
+                    svm_result,
+                    dt_result, 
+                    str(self.location.find_locations(tweet)),
+                    datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+                )
+                cur.execute(add_tweet, tweet_data)
+                con.commit()
 
-            cur.close()
+                cur.close()
 
         except BaseException as e:
             print("Error on_data: %s" % str(e))

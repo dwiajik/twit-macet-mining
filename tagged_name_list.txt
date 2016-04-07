@@ -5,6 +5,8 @@ a/PRFX zakir/B-LOC
 abimanyu/B-LOC
 abu/B-LOC bakar/I-LOC ali/I-LOC
 achmad/B-LOC jazuli/I-LOC
+adisucipto/B-LOC
+adisutjipto/B-LOC
 adi/B-LOC sucipto/I-LOC
 adi/B-LOC sutjipto/I-LOC
 affandi/B-LOC
@@ -468,6 +470,7 @@ remujung/B-LOC
 renggo/B-LOC
 resiwiyoso/B-LOC
 retno/B-LOC dumirah/I-LOC
+retno/B-LOC dumilah/I-LOC
 ringin/B-LOC putih/I-LOC
 ronodigdayan/B-LOC
 rotowijayan/B-LOC
