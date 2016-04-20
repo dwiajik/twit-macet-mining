@@ -2,7 +2,9 @@ import random
 import re
 import nltk
 import nltk.classify
+from sklearn.naive_bayes import BernoulliNB
 from sklearn.svm import LinearSVC
+from sklearn.tree import DecisionTreeClassifier
 from nltk.tag import tnt
 
 import json
@@ -74,7 +76,8 @@ class Classifier:
         print('Using', len(train_set), 'training data.')
 
         start_time = time.time()
-        self.naive_bayes_classifier = nltk.NaiveBayesClassifier.train(train_set)
+        #self.naive_bayes_classifier = nltk.NaiveBayesClassifier.train(train_set)
+        self.naive_bayes_classifier = nltk.classify.SklearnClassifier(BernoulliNB()).train(train_set)
         naive_bayes_time = round(time.time() - start_time, 2)
         print('Naive Bayes Classifier training time:', naive_bayes_time, 'seconds')
 
@@ -84,7 +87,8 @@ class Classifier:
         print('SVM Classifier training time:', svm_time, 'seconds')
 
         start_time = time.time()
-        self.decision_tree_classifier = nltk.DecisionTreeClassifier.train(train_set)
+        #self.decision_tree_classifier = nltk.DecisionTreeClassifier.train(train_set)
+        self.decision_tree_classifier = nltk.classify.SklearnClassifier(DecisionTreeClassifier()).train(train_set)
         decision_tree_time = round(time.time() - start_time, 2)
         print('Decision Tree Classifier training time:', decision_tree_time, 'seconds')
 
