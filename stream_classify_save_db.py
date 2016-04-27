@@ -36,7 +36,13 @@ class Classifier:
         tweet = tweet.lower()
 
         # remove non alphabetic character
-        regex = re.compile('[^a-zA-Z]')
+        regex = re.compile('\shttp.+\s')
+        tweet = regex.sub(' ', tweet)
+        regex = re.compile('@[a-zA-Z0-9_]+')
+        tweet = regex.sub(' ', tweet)
+        regex = re.compile('RT\s')
+        tweet = regex.sub(' ', tweet)
+        regex = re.compile('[^a-zA-Z0-9]')
         tweet = regex.sub(' ', tweet)
 
         # replace abbreviations
@@ -122,15 +128,6 @@ class Location:
         regex = re.compile('RT\s')
         tweet = regex.sub(' ', tweet)
         regex = re.compile('[^a-zA-Z0-9]')
-        tweet = regex.sub(' ', tweet)
-
-        regex = re.compile('kondisi')
-        tweet = regex.sub(' ', tweet)
-        regex = re.compile('lalin')
-        tweet = regex.sub(' ', tweet)
-        regex = re.compile('lintas')
-        tweet = regex.sub(' ', tweet)
-        regex = re.compile('arus')
         tweet = regex.sub(' ', tweet)
 
         # replace abbreviations

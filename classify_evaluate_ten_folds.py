@@ -18,7 +18,13 @@ def clean_tweet(tweet):
     tweet = tweet.lower()
 
     # remove non alphabetic character
-    regex = re.compile('[^a-zA-Z]')
+    regex = re.compile('\shttp.+\s')
+    tweet = regex.sub(' ', tweet)
+    regex = re.compile('@[a-zA-Z0-9_]+')
+    tweet = regex.sub(' ', tweet)
+    regex = re.compile('RT\s')
+    tweet = regex.sub(' ', tweet)
+    regex = re.compile('[^a-zA-Z0-9]')
     tweet = regex.sub(' ', tweet)
 
     # replace abbreviations
