@@ -163,7 +163,7 @@ for i in range(fold):
 
     # SVM
     start_time = time.time()
-    svm_classifier = nltk.classify.SklearnClassifier(LinearSVC()).train(train_set)
+    svm_classifier = nltk.classify.SklearnClassifier(LinearSVC(loss='hinge', max_iter=10000)).train(train_set)
     svm_time = round(time.time() - start_time, 2)
     svm_accuracy = nltk.classify.accuracy(svm_classifier, test_set)
      

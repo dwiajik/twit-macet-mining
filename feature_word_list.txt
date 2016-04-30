@@ -2,7 +2,6 @@ lancar
 simpang
 wib
 pantau
-lalin
 arah
 arus
 ramai
@@ -37,4 +36,3 @@ pukul
 tetap
 bandara
 macet
-lalulintas

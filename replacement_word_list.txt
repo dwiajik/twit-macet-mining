@@ -21,3 +21,5 @@ kend,kendaraan
 blm,belum
 concat,condongcatur
 jokteng,pojok beteng
+lalin,lalu lintas
+lalulintas,lalu lintas

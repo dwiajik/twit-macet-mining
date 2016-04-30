@@ -375,21 +375,22 @@ p/PRFX purbo/B-LOC
 p/PRFX senopati/B-LOC
 p/PRFX tompe/B-LOC
 p/PRFX wirosobo/B-LOC
-pabringan/I-LOC
-pajeksan/I-LOC
-pakarti/I-LOC
-pakaryan/I-LOC
-pakel/I-LOC
-pakualaman/I-LOC
-pakuncen/I-LOC
-pakuncen/I-LOC
-pakuningratan/I-LOC
-pamanahan/I-LOC
-pamularsih/I-LOC
-pandean/I-LOC
-pandeyan/I-LOC
-pandu/I-LOC
-panembahan/I-LOC
+pabringan/B-LOC
+pajeksan/B-LOC
+pakarti/B-LOC
+pakaryan/B-LOC
+pakel/B-LOC
+pakem/B-LOC
+pakualaman/B-LOC
+pakuncen/B-LOC
+pakuncen/B-LOC
+pakuningratan/B-LOC
+pamanahan/B-LOC
+pamularsih/B-LOC
+pandean/B-LOC
+pandeyan/B-LOC
+pandu/B-LOC
+panembahan/B-LOC
 panembahan/B-LOC benowo/I-LOC
 panembahan/B-LOC mangkurat/I-LOC
 panembahan/B-LOC purbo/I-LOC
