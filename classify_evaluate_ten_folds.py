@@ -15,14 +15,16 @@ import time
 import datetime
 
 def clean_tweet(tweet):
+    # remove "RT"
+    regex = re.compile('RT\s')
+    tweet = regex.sub(' ', tweet)
+
     tweet = tweet.lower()
 
     # remove non alphabetic character
-    regex = re.compile('\shttp.+\s')
+    regex = re.compile('https?(:\/\/(?:www\.|(?!www))[^\s\.]+\.[^\s]{2,}|www\.[^\s]+\.[^\s]{2,})?')
     tweet = regex.sub(' ', tweet)
     regex = re.compile('@[a-zA-Z0-9_]+')
-    tweet = regex.sub(' ', tweet)
-    regex = re.compile('RT\s')
     tweet = regex.sub(' ', tweet)
     regex = re.compile('[^a-zA-Z0-9]')
     tweet = regex.sub(' ', tweet)
