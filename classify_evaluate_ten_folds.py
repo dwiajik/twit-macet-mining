@@ -51,7 +51,7 @@ def tweet_features(tweet):
 
     for word in open('feature_word_list.txt'):
         word = word.rstrip('\n').rstrip('\r')
-        features["count({})".format(word)] = tweet.count(word)
+        features["{}".format(word)] = tweet.count(word)
 
     return features
 
@@ -165,7 +165,7 @@ for i in range(fold):
 
     # SVM
     start_time = time.time()
-    svm_classifier = nltk.classify.SklearnClassifier(LinearSVC(loss='hinge', max_iter=10000)).train(train_set)
+    svm_classifier = nltk.classify.SklearnClassifier(LinearSVC(max_iter=10000)).train(train_set)
     svm_time = round(time.time() - start_time, 2)
     svm_accuracy = nltk.classify.accuracy(svm_classifier, test_set)
      

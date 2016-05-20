@@ -1,25 +1,27 @@
-dr,dari
-sp,simpang
-simp,simpang
+ato,atau
+bgt,banget
+blm,belum
+boplaz,borobudur plaza
 bund,bundaran
-jl,jalan
-jln,jalan
-jlan,jalan
-lncar,lancar
+concat,condongcatur
+deres,deras
 dg,dengan
 dgn,dengan
-tdk,tidak
-yg,yang
-tnpa,tanpa
-rame,ramai
-ramlan,ramai lancar
-deres,deras
-bgt,banget
-boplaz,borobudur plaza
+dlm,dalam
+dr,dari
+jl,jalan
+jlan,jalan
+jln,jalan
+jokteng,pojok beteng
 k,ke
 kend,kendaraan
-blm,belum
-concat,condongcatur
-jokteng,pojok beteng
 lalin,lalu lintas
 lalulintas,lalu lintas
+lncar,lancar
+rame,ramai
+ramlan,ramai lancar
+simp,simpang
+sp,simpang
+tdk,tidak
+tnpa,tanpa
+yg,yang

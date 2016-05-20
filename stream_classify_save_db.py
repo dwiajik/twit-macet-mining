@@ -67,7 +67,7 @@ class Classifier:
 
         for word in open('feature_word_list.txt'):
             word = word.rstrip('\n').rstrip('\r')
-            features["count({})".format(word)] = tweet.count(word)
+            features["{}".format(word)] = tweet.count(word)
 
         return features
 
@@ -88,7 +88,7 @@ class Classifier:
         print('Naive Bayes Classifier training time:', naive_bayes_time, 'seconds')
 
         start_time = time.time()
-        self.svm_classifier = nltk.classify.SklearnClassifier(LinearSVC()).train(train_set)
+        self.svm_classifier = nltk.classify.SklearnClassifier(LinearSVC(max_iter=10000)).train(train_set)
         svm_time = round(time.time() - start_time, 2)
         print('SVM Classifier training time:', svm_time, 'seconds')
 

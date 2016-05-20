@@ -1,12 +1,5 @@
 import random
 import re
-import nltk
-import nltk.classify
-from nltk.metrics import scores
-from sklearn.naive_bayes import BernoulliNB
-from sklearn.svm import LinearSVC
-from sklearn.tree import DecisionTreeClassifier
-import collections
 import json
 import os
 import sys
