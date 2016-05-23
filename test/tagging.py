@@ -13,7 +13,7 @@ train_data = []
 for line in f:
     train_data.append([nltk.tag.str2tuple(t) for t in line.split()])
 
-tnt_pos_tagger = tnt.TnT(unk=)
+tnt_pos_tagger = tnt.TnT()
 tnt_pos_tagger.train(train_data)
 tweet = sys.argv[1]
 tagged_tweets = tnt_pos_tagger.tag(nltk.word_tokenize(tweet))
@@ -21,3 +21,4 @@ tagged_tweets = tnt_pos_tagger.tag(nltk.word_tokenize(tweet))
 for tagged_tweet in tagged_tweets:
     print(tagged_tweet[0] + "/" + tagged_tweet[1] + " ", end="")
 
+print()

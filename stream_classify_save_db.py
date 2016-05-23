@@ -65,8 +65,10 @@ class Classifier:
         features = {}
         tweet = self.clean_tweet(tweet)
 
-        for word in open('feature_word_list.txt'):
-            word = word.rstrip('\n').rstrip('\r')
+        #for word in open('feature_word_list.txt'):
+        #    word = word.rstrip('\n').rstrip('\r')
+        #    features["{}".format(word)] = tweet.count(word)
+        for word in tweet.split():
             features["{}".format(word)] = tweet.count(word)
 
         return features
