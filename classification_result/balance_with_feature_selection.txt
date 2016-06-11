@@ -1,0 +1,377 @@
+Start analysis with total: 35184 data
+Traffic tweets: 17592 data
+Non traffic tweets: 17592 data
+
+Iteration 1
+Training data: 31666 data
+Test data: 3518 data
+Naive Bayes Classifier:
+	 Training time: 1.36
+	 True positive: 1666
+	 True negative: 1792
+	 False positive: 57
+	 False negative: 3
+	 Accuracy: 0.9829448550312677
+	 Precision: 0.9669181659895532
+	 Recall: 0.9982025164769323
+	 F-Measure: 0.982311320754717
+SVM Classifier:
+	 Training time: 3.04
+	 True positive: 1682
+	 True negative: 1784
+	 False positive: 41
+	 False negative: 11
+	 Accuracy: 0.9852188743604321
+	 Precision: 0.9762042948345908
+	 Recall: 0.993502658003544
+	 F-Measure: 0.9847775175644028
+Decision Tree Classifier:
+	 Training time: 1.43
+	 True positive: 1683
+	 True negative: 1786
+	 False positive: 40
+	 False negative: 9
+	 Accuracy: 0.9860716316088687
+	 Precision: 0.9767846778874056
+	 Recall: 0.9946808510638298
+	 F-Measure: 0.9856515373352854
+
+Iteration 2
+Training data: 31666 data
+Test data: 3518 data
+Naive Bayes Classifier:
+	 Training time: 1.77
+	 True positive: 1673
+	 True negative: 1776
+	 False positive: 67
+	 False negative: 2
+	 Accuracy: 0.980386583285958
+	 Precision: 0.9614942528735633
+	 Recall: 0.9988059701492538
+	 F-Measure: 0.9797950219619327
+SVM Classifier:
+	 Training time: 2.47
+	 True positive: 1692
+	 True negative: 1771
+	 False positive: 48
+	 False negative: 7
+	 Accuracy: 0.9843661171119954
+	 Precision: 0.9724137931034482
+	 Recall: 0.9958799293702177
+	 F-Measure: 0.9840069787728991
+Decision Tree Classifier:
+	 Training time: 1.46
+	 True positive: 1699
+	 True negative: 1769
+	 False positive: 41
+	 False negative: 9
+	 Accuracy: 0.9857873791927232
+	 Precision: 0.9764367816091954
+	 Recall: 0.9947306791569087
+	 F-Measure: 0.9854988399071926
+
+Iteration 3
+Training data: 31666 data
+Test data: 3518 data
+Naive Bayes Classifier:
+	 Training time: 1.32
+	 True positive: 1701
+	 True negative: 1736
+	 False positive: 71
+	 False negative: 10
+	 Accuracy: 0.9769755542922115
+	 Precision: 0.9599322799097065
+	 Recall: 0.994155464640561
+	 F-Measure: 0.9767441860465116
+SVM Classifier:
+	 Training time: 2.11
+	 True positive: 1720
+	 True negative: 1729
+	 False positive: 52
+	 False negative: 17
+	 Accuracy: 0.980386583285958
+	 Precision: 0.9706546275395034
+	 Recall: 0.9902130109383995
+	 F-Measure: 0.9803362781419208
+Decision Tree Classifier:
+	 Training time: 1.43
+	 True positive: 1723
+	 True negative: 1737
+	 False positive: 49
+	 False negative: 9
+	 Accuracy: 0.9835133598635588
+	 Precision: 0.9723476297968398
+	 Recall: 0.9948036951501155
+	 F-Measure: 0.983447488584475
+
+Iteration 4
+Training data: 31666 data
+Test data: 3518 data
+Naive Bayes Classifier:
+	 Training time: 1.24
+	 True positive: 1678
+	 True negative: 1757
+	 False positive: 80
+	 False negative: 3
+	 Accuracy: 0.9764070494599204
+	 Precision: 0.9544937428896473
+	 Recall: 0.9982153480071386
+	 F-Measure: 0.9758650770572841
+SVM Classifier:
+	 Training time: 2.18
+	 True positive: 1698
+	 True negative: 1748
+	 False positive: 60
+	 False negative: 12
+	 Accuracy: 0.9795338260375214
+	 Precision: 0.9658703071672355
+	 Recall: 0.9929824561403509
+	 F-Measure: 0.9792387543252596
+Decision Tree Classifier:
+	 Training time: 1.32
+	 True positive: 1707
+	 True negative: 1743
+	 False positive: 51
+	 False negative: 17
+	 Accuracy: 0.9806708357021034
+	 Precision: 0.9709897610921502
+	 Recall: 0.990139211136891
+	 F-Measure: 0.980470993681792
+
+Iteration 5
+Training data: 31666 data
+Test data: 3518 data
+Naive Bayes Classifier:
+	 Training time: 1.3
+	 True positive: 1719
+	 True negative: 1738
+	 False positive: 57
+	 False negative: 4
+	 Accuracy: 0.9826606026151222
+	 Precision: 0.9679054054054054
+	 Recall: 0.9976784677887406
+	 F-Measure: 0.9825664475564447
+SVM Classifier:
+	 Training time: 2.12
+	 True positive: 1734
+	 True negative: 1730
+	 False positive: 42
+	 False negative: 12
+	 Accuracy: 0.984650369528141
+	 Precision: 0.9763513513513513
+	 Recall: 0.993127147766323
+	 F-Measure: 0.9846678023850085
+Decision Tree Classifier:
+	 Training time: 1.34
+	 True positive: 1738
+	 True negative: 1732
+	 False positive: 38
+	 False negative: 10
+	 Accuracy: 0.9863558840250142
+	 Precision: 0.9786036036036037
+	 Recall: 0.994279176201373
+	 F-Measure: 0.9863791146424519
+
+Iteration 6
+Training data: 31666 data
+Test data: 3518 data
+Naive Bayes Classifier:
+	 Training time: 1.3
+	 True positive: 1688
+	 True negative: 1771
+	 False positive: 58
+	 False negative: 1
+	 Accuracy: 0.9832291074474133
+	 Precision: 0.9667812142038946
+	 Recall: 0.9994079336885732
+	 F-Measure: 0.9828238719068413
+SVM Classifier:
+	 Training time: 2.14
+	 True positive: 1702
+	 True negative: 1765
+	 False positive: 44
+	 False negative: 7
+	 Accuracy: 0.9855031267765776
+	 Precision: 0.9747995418098511
+	 Recall: 0.9959040374488005
+	 F-Measure: 0.9852387843704775
+Decision Tree Classifier:
+	 Training time: 1.29
+	 True positive: 1703
+	 True negative: 1763
+	 False positive: 43
+	 False negative: 9
+	 Accuracy: 0.9852188743604321
+	 Precision: 0.9753722794959908
+	 Recall: 0.9947429906542056
+	 F-Measure: 0.9849624060150376
+
+Iteration 7
+Training data: 31666 data
+Test data: 3518 data
+Naive Bayes Classifier:
+	 Training time: 1.29
+	 True positive: 1717
+	 True negative: 1735
+	 False positive: 61
+	 False negative: 5
+	 Accuracy: 0.9812393405343945
+	 Precision: 0.9656917885264342
+	 Recall: 0.997096399535424
+	 F-Measure: 0.9811428571428571
+SVM Classifier:
+	 Training time: 2.55
+	 True positive: 1727
+	 True negative: 1731
+	 False positive: 51
+	 False negative: 9
+	 Accuracy: 0.9829448550312677
+	 Precision: 0.9713160854893138
+	 Recall: 0.994815668202765
+	 F-Measure: 0.9829254410927718
+Decision Tree Classifier:
+	 Training time: 1.35
+	 True positive: 1732
+	 True negative: 1726
+	 False positive: 46
+	 False negative: 14
+	 Accuracy: 0.9829448550312677
+	 Precision: 0.9741282339707537
+	 Recall: 0.9919816723940436
+	 F-Measure: 0.9829738933030646
+
+Iteration 8
+Training data: 31666 data
+Test data: 3518 data
+Naive Bayes Classifier:
+	 Training time: 1.23
+	 True positive: 1733
+	 True negative: 1715
+	 False positive: 61
+	 False negative: 9
+	 Accuracy: 0.9801023308698124
+	 Precision: 0.9659977703455964
+	 Recall: 0.994833524684271
+	 F-Measure: 0.9802036199095022
+SVM Classifier:
+	 Training time: 2.16
+	 True positive: 1747
+	 True negative: 1715
+	 False positive: 47
+	 False negative: 9
+	 Accuracy: 0.9840818646958499
+	 Precision: 0.9738015607580826
+	 Recall: 0.994874715261959
+	 F-Measure: 0.984225352112676
+Decision Tree Classifier:
+	 Training time: 1.34
+	 True positive: 1754
+	 True negative: 1704
+	 False positive: 40
+	 False negative: 20
+	 Accuracy: 0.9829448550312677
+	 Precision: 0.9777034559643255
+	 Recall: 0.9887260428410372
+	 F-Measure: 0.9831838565022422
+
+Iteration 9
+Training data: 31666 data
+Test data: 3518 data
+Naive Bayes Classifier:
+	 Training time: 1.26
+	 True positive: 1683
+	 True negative: 1758
+	 False positive: 72
+	 False negative: 5
+	 Accuracy: 0.9781125639567936
+	 Precision: 0.958974358974359
+	 Recall: 0.9970379146919431
+	 F-Measure: 0.9776357827476038
+SVM Classifier:
+	 Training time: 2.28
+	 True positive: 1699
+	 True negative: 1750
+	 False positive: 56
+	 False negative: 13
+	 Accuracy: 0.980386583285958
+	 Precision: 0.9680911680911681
+	 Recall: 0.9924065420560748
+	 F-Measure: 0.9800980674935102
+Decision Tree Classifier:
+	 Training time: 1.33
+	 True positive: 1708
+	 True negative: 1747
+	 False positive: 47
+	 False negative: 16
+	 Accuracy: 0.9820920977828311
+	 Precision: 0.9732193732193732
+	 Recall: 0.9907192575406032
+	 F-Measure: 0.9818913480885312
+
+Iteration 10
+Training data: 31666 data
+Test data: 3518 data
+Naive Bayes Classifier:
+	 Training time: 1.28
+	 True positive: 1684
+	 True negative: 1764
+	 False positive: 63
+	 False negative: 7
+	 Accuracy: 0.9801023308698124
+	 Precision: 0.9639381797366915
+	 Recall: 0.9958604376108812
+	 F-Measure: 0.9796393251890634
+SVM Classifier:
+	 Training time: 2.27
+	 True positive: 1701
+	 True negative: 1759
+	 False positive: 46
+	 False negative: 12
+	 Accuracy: 0.9835133598635588
+	 Precision: 0.9736691471093303
+	 Recall: 0.9929947460595446
+	 F-Measure: 0.9832369942196532
+Decision Tree Classifier:
+	 Training time: 1.43
+	 True positive: 1706
+	 True negative: 1760
+	 False positive: 41
+	 False negative: 11
+	 Accuracy: 0.9852188743604321
+	 Precision: 0.976531196336577
+	 Recall: 0.9935934769947583
+	 F-Measure: 0.9849884526558892
+
+Naive Bayes Classifier:
+	Average training time: 1.3350000000000002
+	Average true positive: 1694.2
+	Average true negative: 1754.2
+	Average false positives: 64.7
+	Average false negatives: 4.9
+	Average accuracy: 0.9802160318362706
+	Average precision: 0.9632127158854852
+	Average recall: 0.9971293977273719
+	Average F-Measure: 0.9798727510272759
+
+SVM Classifier:
+	Average training time: 2.332
+	Average true positive: 1710.2
+	Average true negative: 1748.2
+	Average false positives: 48.7
+	Average false negatives: 10.9
+	Average accuracy: 0.9830585559977258
+	Average precision: 0.9723171877253876
+	Average recall: 0.993670091124798
+	Average F-Measure: 0.982875197047858
+
+Decision Tree Classifier:
+	Average training time: 1.3719999999999999
+	Average true positive: 1715.3
+	Average true negative: 1746.7
+	Average false positives: 43.6
+	Average false negatives: 12.4
+	Average accuracy: 0.98408186469585
+	Average precision: 0.9752116992976214
+	Average recall: 0.9928397053133766
+	Average F-Measure: 0.9839447930715961
+

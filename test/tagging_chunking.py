@@ -16,7 +16,7 @@ for line in f:
 tnt_pos_tagger = tnt.TnT()
 tnt_pos_tagger.train(train_data)
 grammar = r"""
-  LOC: {(<PRFX><PRFX>*<B-LOC><I-LOC>*)|(<B-LOC><I-LOC>*)}
+  LOC: {(<PRFX>*<B-LOC><I-LOC>*)}
 """
 cp = nltk.RegexpParser(grammar)
 tweet = sys.argv[1]
