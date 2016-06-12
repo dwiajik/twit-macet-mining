@@ -28,7 +28,13 @@ class Classifier:
         tweet = tweet.lower()
 
         # remove non alphabetic character
-        regex = re.compile('[^a-zA-Z]')
+        regex = re.compile('\shttp.+\s')
+        tweet = regex.sub(' ', tweet)
+        regex = re.compile('@[a-zA-Z0-9_]+')
+        tweet = regex.sub(' ', tweet)
+        regex = re.compile('RT\s')
+        tweet = regex.sub(' ', tweet)
+        regex = re.compile('[^a-zA-Z0-9]')
         tweet = regex.sub(' ', tweet)
 
         # replace abbreviations
@@ -51,9 +57,11 @@ class Classifier:
         features = {}
         tweet = self.clean_tweet(tweet)
 
-        for word in open('feature_word_list.txt'):
-            word = word.rstrip('\n').rstrip('\r')
-            features["count({})".format(word)] = tweet.count(word)
+        #for word in open('feature_word_list.txt'):
+        #    word = word.rstrip('\n').rstrip('\r')
+        #    features["{}".format(word)] = tweet.count(word)
+        for word in tweet.split():
+            features["{}".format(word)] = tweet.count(word)
 
         return features
 
@@ -68,17 +76,19 @@ class Classifier:
         print('Using', len(train_set), 'training data.')
 
         start_time = time.time()
-        self.naive_bayes_classifier = nltk.NaiveBayesClassifier.train(train_set)
+        #self.naive_bayes_classifier = nltk.NaiveBayesClassifier.train(train_set)
+        self.naive_bayes_classifier = nltk.classify.SklearnClassifier(BernoulliNB()).train(train_set)
         naive_bayes_time = round(time.time() - start_time, 2)
         print('Naive Bayes Classifier training time:', naive_bayes_time, 'seconds')
 
         start_time = time.time()
-        self.svm_classifier = nltk.classify.SklearnClassifier(LinearSVC()).train(train_set)
+        self.svm_classifier = nltk.classify.SklearnClassifier(LinearSVC(max_iter=10000)).train(train_set)
         svm_time = round(time.time() - start_time, 2)
         print('SVM Classifier training time:', svm_time, 'seconds')
 
         start_time = time.time()
-        self.decision_tree_classifier = nltk.DecisionTreeClassifier.train(train_set)
+        #self.decision_tree_classifier = nltk.DecisionTreeClassifier.train(train_set)
+        self.decision_tree_classifier = nltk.classify.SklearnClassifier(DecisionTreeClassifier()).train(train_set)
         decision_tree_time = round(time.time() - start_time, 2)
         print('Decision Tree Classifier training time:', decision_tree_time, 'seconds')
 

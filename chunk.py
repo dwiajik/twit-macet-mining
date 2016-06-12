@@ -42,9 +42,9 @@ def clean_tweet(tweet):
 	tweet = ' '.join(new_string)
 	return tweet
 
-#f = open('tagged_corpus/UI-1M-tagged-edited.txt', 'r')
-f = open('tagged_corpus/UI-1M-tagged-edited-simplified.txt', 'r')
-#f = open('tagged_corpus/Indonesian_Manually_Tagged_Corpus.txt', 'r')
+#f = open('pos_tagged_corpus/UI-1M-tagged-edited.txt', 'r')
+f = open('pos_tagged_corpus/UI-1M-tagged-edited-simplified.txt', 'r')
+#f = open('pos_tagged_corpus/Indonesian_Manually_Tagged_Corpus.txt', 'r')
 
 tagged = []
 for line in f:
